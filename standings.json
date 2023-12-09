@@ -1,0 +1,21 @@
+{
+    "sport": {
+        "id": "289u5typ3vp4ifwh5thalohmq",
+        "name": "Soccer"
+    },
+    "ruleset": {
+        "id": "79plas4983031idr6vw83nuel",
+        "name": "Men"
+    },
+    "competition": {
+        "id": "44uk0qy9nasrbiliiapc8be8l",
+        "name": "Kirin Cup"
+    },
+    "tournamentCalendar": {
+        "id": "2h1cwuo79q9amxbsuk35nw6xg",
+        "startDate": "2022-06-10Z",
+        "endDate": "2022-06-14Z",
+        "name": "2022"
+    },
+    "lastUpdated": "2022-07-02T12:50:58Z"
+}

@@ -1,0 +1,17 @@
+{
+    "mapping": [
+        {
+            "suppliers": {
+                "suppliers": [
+                    {
+                        "name": "OPTA",
+                        "uuid": "esyxxkmsrcrd719ohjmhuaksy",
+                        "entityId": "976"
+                    }
+                ]
+            },
+            "uuid": "d7uimxfsc9aphi4drehshj7ae"
+        }
+    ],
+    "lastUpdated": "2021-01-11T20:47:25Z"
+}

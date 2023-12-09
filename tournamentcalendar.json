@@ -1,0 +1,200 @@
+{
+    "competition": [
+        {
+            "id": "5em08hhvd7komnfdsb1yagpas",
+            "ocId": "2357",
+            "opId": "593",
+            "name": "Copa de la División Profesional",
+            "competitionCode": "CDP",
+            "displayOrder": 15,
+            "country": "Bolivia",
+            "countryId": "3dgy24s32p56l29s66imputcy",
+            "countryCode": "BOL",
+            "isFriendly": "no",
+            "competitionFormat": "Domestic cup",
+            "type": "men",
+            "tournamentCalendar": [
+                {
+                    "id": "acjvtl7xxvcbcz107c8lieqz8",
+                    "includesVenues": "yes",
+                    "ocId": "22919",
+                    "name": "2023",
+                    "startDate": "2023-02-15Z",
+                    "endDate": "2023-12-15Z",
+                    "active": "yes",
+                    "lastUpdated": "2023-12-07T04:05:42Z",
+                    "includesStandings": "yes"
+                }
+            ],
+            "competitionType": "club"
+        },
+        {
+            "id": "alpfd99yd3lfv7bhjo0biuq7b",
+            "ocId": "69",
+            "opId": "592",
+            "name": "Primera División",
+            "competitionCode": "BPD",
+            "displayOrder": 10,
+            "country": "Bolivia",
+            "countryId": "3dgy24s32p56l29s66imputcy",
+            "countryCode": "BOL",
+            "isFriendly": "no",
+            "competitionFormat": "Domestic league",
+            "type": "men",
+            "tournamentCalendar": [
+                {
+                    "id": "d9kukruep5g7fthaknhbo2k2c",
+                    "includesVenues": "yes",
+                    "ocId": "22771",
+                    "name": "2023",
+                    "startDate": "2023-02-04Z",
+                    "endDate": "2023-12-07Z",
+                    "active": "yes",
+                    "lastUpdated": "2023-12-07T12:36:34Z",
+                    "includesStandings": "yes"
+                }
+            ],
+            "competitionType": "club"
+        },
+        {
+            "id": "f20paiiysds2gh27uby7bzt4c",
+            "ocId": "825",
+            "opId": "1203",
+            "name": "Baltic Cup",
+            "competitionCode": "BAC",
+            "displayOrder": 30,
+            "country": "Europe",
+            "countryId": "7yiwjcnhat6jo3f901h266cwl",
+            "isFriendly": "no",
+            "competitionFormat": "International cup",
+            "type": "men",
+            "tournamentCalendar": [
+                {
+                    "id": "6czzico2dz75en3ma9blc9lp0",
+                    "includesVenues": "yes",
+                    "ocId": "20425",
+                    "name": "2022",
+                    "startDate": "2022-11-16Z",
+                    "endDate": "2022-11-19Z",
+                    "active": "yes",
+                    "lastUpdated": "2023-05-23T00:50:27Z",
+                    "includesStandings": "no"
+                }
+            ],
+            "competitionType": "international"
+        },
+        {
+            "id": "2db0aw1duj2my9l5iey5gm6nq",
+            "ocId": "225",
+            "opId": "342",
+            "name": "CONMEBOL World Cup Qualifiers",
+            "knownName": "CONMEBOL World Cup Qualifiers",
+            "competitionCode": "WQS",
+            "displayOrder": 20,
+            "country": "South America",
+            "countryId": "7ygvdgl31hirp07yeye1tvsut",
+            "isFriendly": "no",
+            "competitionFormat": "International cup",
+            "type": "men",
+            "tournamentCalendar": [
+                {
+                    "id": "8r3378w0vwgdwl8hypx4tt0r8",
+                    "includesVenues": "yes",
+                    "ocId": "22635",
+                    "name": "2026 Canada/Mexico/USA",
+                    "startDate": "2023-09-08Z",
+                    "endDate": "2025-09-14Z",
+                    "active": "yes",
+                    "lastUpdated": "2023-11-22T04:55:25Z",
+                    "includesStandings": "yes"
+                }
+            ],
+            "competitionType": "international"
+        },
+        {
+            "id": "70excpe1synn9kadnbppahdn7",
+            "ocId": "72",
+            "opId": "4",
+            "name": "FIFA World Cup",
+            "knownName": "FIFA World Cup",
+            "competitionCode": "WOC",
+            "displayOrder": 1,
+            "country": "World",
+            "countryId": "7yasa43laq1nb2e6f8bfuvxed",
+            "isFriendly": "no",
+            "competitionFormat": "International cup",
+            "type": "men",
+            "tournamentCalendar": [
+                {
+                    "id": "2a8elwzsufmguwymxbshcx756",
+                    "includesVenues": "yes",
+                    "ocId": "16394",
+                    "name": "2022 Qatar",
+                    "startDate": "2022-11-20Z",
+                    "endDate": "2022-12-18Z",
+                    "active": "yes",
+                    "lastUpdated": "2023-11-27T09:44:37Z",
+                    "includesStandings": "yes"
+                }
+            ],
+            "competitionType": "international"
+        },
+        {
+            "id": "cesdwwnxbc5fmajgroc0hqzy2",
+            "ocId": "430",
+            "opId": "88",
+            "name": "Friendlies",
+            "knownName": "Internationals",
+            "competitionCode": "FRI",
+            "displayOrder": 50,
+            "country": "World",
+            "countryId": "7yasa43laq1nb2e6f8bfuvxed",
+            "isFriendly": "yes",
+            "competitionFormat": "International cup",
+            "type": "men",
+            "tournamentCalendar": [
+                {
+                    "id": "61td1uqzh0f4wtrnh2bv3gmqc",
+                    "includesVenues": "yes",
+                    "ocId": "22667",
+                    "name": "2023",
+                    "startDate": "2023-01-01Z",
+                    "endDate": "2023-12-31Z",
+                    "active": "yes",
+                    "lastUpdated": "2023-12-07T07:02:00Z",
+                    "includesStandings": "no"
+                }
+            ],
+            "competitionType": "international"
+        },
+        {
+            "id": "44uk0qy9nasrbiliiapc8be8l",
+            "ocId": "275",
+            "opId": "849",
+            "name": "Kirin Cup",
+            "knownName": "Kirin Cup",
+            "competitionCode": "KIC",
+            "displayOrder": 80,
+            "country": "World",
+            "countryId": "7yasa43laq1nb2e6f8bfuvxed",
+            "isFriendly": "yes",
+            "competitionFormat": "International cup",
+            "type": "men",
+            "tournamentCalendar": [
+                {
+                    "id": "2h1cwuo79q9amxbsuk35nw6xg",
+                    "includesVenues": "yes",
+                    "ocId": "21473",
+                    "name": "2022",
+                    "startDate": "2022-06-10Z",
+                    "endDate": "2022-06-14Z",
+                    "active": "yes",
+                    "lastUpdated": "2023-11-10T16:36:51Z",
+                    "includesStandings": "no"
+                }
+            ],
+            "competitionType": "international"
+        }
+    ],
+    "lastUpdated": "2023-12-07T11:42:56Z"
+}

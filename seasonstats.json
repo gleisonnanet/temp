@@ -1,0 +1,4579 @@
+{
+    "competition": {
+        "id": "44uk0qy9nasrbiliiapc8be8l",
+        "name": "Kirin Cup"
+    },
+    "tournamentCalendar": {
+        "id": "2h1cwuo79q9amxbsuk35nw6xg",
+        "startDate": "2022-06-10",
+        "endDate": "2022-06-14",
+        "name": "2022"
+    },
+    "contestant": {
+        "id": "4etj58jfe5zmfspk9pl7jfzr3",
+        "name": "Chile",
+        "stat": [
+            {
+                "name": "Possession Percentage",
+                "value": "58"
+            },
+            {
+                "name": "GK Unsuccessful Distribution",
+                "value": "1"
+            },
+            {
+                "name": "Throw Ins to Own Player",
+                "value": "45"
+            },
+            {
+                "name": "Duels lost",
+                "value": "106"
+            },
+            {
+                "name": "Recoveries",
+                "value": "103"
+            },
+            {
+                "name": "Successful Crosses & Corners",
+                "value": "9"
+            },
+            {
+                "name": "Unsuccessful Passes Own Half",
+                "value": "35"
+            },
+            {
+                "name": "PutThrough/Blocked Distribution",
+                "value": "29"
+            },
+            {
+                "name": "Shots On Conceded Inside Box",
+                "value": "3"
+            },
+            {
+                "name": "Goals Conceded Inside Box",
+                "value": "2"
+            },
+            {
+                "name": "Total Passes",
+                "value": "1007"
+            },
+            {
+                "name": "Total Clearances",
+                "value": "20"
+            },
+            {
+                "name": "Successful Dribbles",
+                "value": "6"
+            },
+            {
+                "name": "Successful Lay-offs",
+                "value": "8"
+            },
+            {
+                "name": "Shots Off Target (inc woodwork)",
+                "value": "15"
+            },
+            {
+                "name": "Tackles Lost",
+                "value": "20"
+            },
+            {
+                "name": "Handballs conceded",
+                "value": "1"
+            },
+            {
+                "name": "Duels",
+                "value": "205"
+            },
+            {
+                "name": "GK Successful Distribution",
+                "value": "22"
+            },
+            {
+                "name": "Throw Ins to Opposition Player",
+                "value": "8"
+            },
+            {
+                "name": "Unsuccessful Dribbles",
+                "value": "19"
+            },
+            {
+                "name": "Unsuccessful Launches",
+                "value": "8"
+            },
+            {
+                "name": "Successful Launches",
+                "value": "5"
+            },
+            {
+                "name": "Successful Crosses open play",
+                "value": "7"
+            },
+            {
+                "name": "Penalties Taken",
+                "value": "1"
+            },
+            {
+                "name": "Unsuccessful Crosses & Corners",
+                "value": "18"
+            },
+            {
+                "name": "Unsuccessful Crosses open play",
+                "value": "15"
+            },
+            {
+                "name": "Duels won",
+                "value": "99"
+            },
+            {
+                "name": "Goals Conceded",
+                "value": "2"
+            },
+            {
+                "name": "Shots On Conceded Outside Box",
+                "value": "5"
+            },
+            {
+                "name": "Tackles Won",
+                "value": "27"
+            },
+            {
+                "name": "Clean Sheets",
+                "value": "1"
+            },
+            {
+                "name": "Tackle Success",
+                "value": "57.45"
+            },
+            {
+                "name": "Shooting Accuracy",
+                "value": "25.00"
+            },
+            {
+                "name": "Total Unsuccessful Passes ( Excl Crosses & Corners )",
+                "value": "131"
+            },
+            {
+                "name": "Ground Duels",
+                "value": "178"
+            },
+            {
+                "name": "Interceptions",
+                "value": "28"
+            },
+            {
+                "name": "Unsuccessful Long Passes",
+                "value": "38"
+            },
+            {
+                "name": "Games Played",
+                "value": "2"
+            },
+            {
+                "name": "Corners Won",
+                "value": "6"
+            },
+            {
+                "name": "Yellow Cards",
+                "value": "5"
+            },
+            {
+                "name": "Successful Long Passes",
+                "value": "61"
+            },
+            {
+                "name": "Successful Open Play Passes",
+                "value": "829"
+            },
+            {
+                "name": "Total Fouls Won",
+                "value": "31"
+            },
+            {
+                "name": "Open Play Passes",
+                "value": "955"
+            },
+            {
+                "name": "Ground Duels lost",
+                "value": "94"
+            },
+            {
+                "name": "Ground Duels won",
+                "value": "84"
+            },
+            {
+                "name": "Key Passes (Attempt Assists)",
+                "value": "18"
+            },
+            {
+                "name": "Total Shots",
+                "value": "20"
+            },
+            {
+                "name": "Offsides",
+                "value": "1"
+            },
+            {
+                "name": "Foul Won Penalty",
+                "value": "1"
+            },
+            {
+                "name": "Corners Taken (incl short corners)",
+                "value": "6"
+            },
+            {
+                "name": "Unsuccessful Short Passes",
+                "value": "93"
+            },
+            {
+                "name": "Unsuccessful Passes Opposition Half",
+                "value": "114"
+            },
+            {
+                "name": "Blocks",
+                "value": "1"
+            },
+            {
+                "name": "Successful Short Passes",
+                "value": "815"
+            },
+            {
+                "name": "Blocked Shots",
+                "value": "6"
+            },
+            {
+                "name": "Passing Accuracy",
+                "value": "86.99"
+            },
+            {
+                "name": "Times Tackled",
+                "value": "37"
+            },
+            {
+                "name": "Shots On Target ( inc goals )",
+                "value": "5"
+            },
+            {
+                "name": "Total Fouls Conceded",
+                "value": "30"
+            },
+            {
+                "name": "Successful Passes Own Half",
+                "value": "502"
+            },
+            {
+                "name": "Passing % Opp Half",
+                "value": "79.57"
+            },
+            {
+                "name": "Aerial Duels lost",
+                "value": "12"
+            },
+            {
+                "name": "Unsuccessful Corners into Box",
+                "value": "3"
+            },
+            {
+                "name": "Aerial Duels won",
+                "value": "15"
+            },
+            {
+                "name": "Total Successful Passes ( Excl Crosses & Corners ) ",
+                "value": "876"
+            },
+            {
+                "name": "PutThrough/Blocked Distribution Won",
+                "value": "14"
+            },
+            {
+                "name": "Aerial Duels",
+                "value": "27"
+            },
+            {
+                "name": "Drops",
+                "value": "1"
+            },
+            {
+                "name": "Crossing Accuracy",
+                "value": "33.33"
+            },
+            {
+                "name": "Total Shots Conceded",
+                "value": "19"
+            },
+            {
+                "name": "Total Losses Of Possession",
+                "value": "229"
+            },
+            {
+                "name": "Successful Corners into Box",
+                "value": "2"
+            },
+            {
+                "name": "Foul Attempted Tackle",
+                "value": "15"
+            },
+            {
+                "name": "Successful Passes Opposition Half",
+                "value": "383"
+            },
+            {
+                "name": "Home Goals",
+                "value": "0"
+            },
+            {
+                "name": "Away Goals",
+                "value": "0"
+            }
+        ]
+    },
+    "lastUpdated": "2022-06-14T08:29:47Z",
+    "player": [
+        {
+            "position": "Midfielder",
+            "id": "b9b44wsl4d24yps6luijnhgix",
+            "shirtNumber": "21",
+            "firstName": "Tomás Jesús",
+            "lastName": "Alarcón Vergara",
+            "shortFirstName": "Tomás",
+            "shortLastName": "Alarcón",
+            "matchName": "T. Alarcón",
+            "stat": [
+                {
+                    "name": "Ground Duels",
+                    "value": "12"
+                },
+                {
+                    "name": "Games Played",
+                    "value": "2"
+                },
+                {
+                    "name": "Touches",
+                    "value": "104"
+                },
+                {
+                    "name": "Time Played",
+                    "value": "121"
+                },
+                {
+                    "name": "Total Successful Passes ( Excl Crosses & Corners ) ",
+                    "value": "61"
+                },
+                {
+                    "name": "Throw Ins to Opposition Player",
+                    "value": "1"
+                },
+                {
+                    "name": "Unsuccessful Launches",
+                    "value": "1"
+                },
+                {
+                    "name": "Total Losses Of Possession",
+                    "value": "25"
+                },
+                {
+                    "name": "Through balls",
+                    "value": "1"
+                },
+                {
+                    "name": "Total Shots",
+                    "value": "3"
+                },
+                {
+                    "name": "Forward Passes",
+                    "value": "19"
+                },
+                {
+                    "name": "Throw Ins to Own Player",
+                    "value": "1"
+                },
+                {
+                    "name": "Successful Passes Opposition Half",
+                    "value": "30"
+                },
+                {
+                    "name": "Duels won",
+                    "value": "10"
+                },
+                {
+                    "name": "Successful Lay-offs",
+                    "value": "1"
+                },
+                {
+                    "name": "Unsuccessful Short Passes",
+                    "value": "11"
+                },
+                {
+                    "name": "Unsuccessful Crosses open play",
+                    "value": "2"
+                },
+                {
+                    "name": "Leftside Passes",
+                    "value": "20"
+                },
+                {
+                    "name": "Unsuccessful Crosses & Corners",
+                    "value": "2"
+                },
+                {
+                    "name": "Appearances",
+                    "value": "2"
+                },
+                {
+                    "name": "Successful Passes Own Half",
+                    "value": "31"
+                },
+                {
+                    "name": "PutThrough/Blocked Distribution",
+                    "value": "1"
+                },
+                {
+                    "name": "Ground Duels won",
+                    "value": "10"
+                },
+                {
+                    "name": "Rightside Passes",
+                    "value": "22"
+                },
+                {
+                    "name": "Open Play Passes",
+                    "value": "71"
+                },
+                {
+                    "name": "Goals Conceded",
+                    "value": "1"
+                },
+                {
+                    "name": "Shots Off Target (inc woodwork)",
+                    "value": "3"
+                },
+                {
+                    "name": "Duels lost",
+                    "value": "2"
+                },
+                {
+                    "name": "Recoveries",
+                    "value": "8"
+                },
+                {
+                    "name": "Unsuccessful Passes Own Half",
+                    "value": "6"
+                },
+                {
+                    "name": "Backward Passes",
+                    "value": "16"
+                },
+                {
+                    "name": "Goals Conceded Inside Box",
+                    "value": "1"
+                },
+                {
+                    "name": "Total Passes",
+                    "value": "77"
+                },
+                {
+                    "name": "Key Passes (Attempt Assists)",
+                    "value": "2"
+                },
+                {
+                    "name": "Tackles Lost",
+                    "value": "4"
+                },
+                {
+                    "name": "Starts",
+                    "value": "1"
+                },
+                {
+                    "name": "Total Touches In Opposition Box",
+                    "value": "2"
+                },
+                {
+                    "name": "Successful Open Play Passes",
+                    "value": "56"
+                },
+                {
+                    "name": "Total Tackles",
+                    "value": "7"
+                },
+                {
+                    "name": "Successful Launches",
+                    "value": "1"
+                },
+                {
+                    "name": "Unsuccessful Passes Opposition Half",
+                    "value": "12"
+                },
+                {
+                    "name": "Duels",
+                    "value": "12"
+                },
+                {
+                    "name": "Interceptions",
+                    "value": "1"
+                },
+                {
+                    "name": "Substitute On",
+                    "value": "1"
+                },
+                {
+                    "name": "Index",
+                    "value": "10"
+                },
+                {
+                    "name": "Total Fouls Won",
+                    "value": "3"
+                },
+                {
+                    "name": "Blocked Shots",
+                    "value": "2"
+                },
+                {
+                    "name": "Unsuccessful Long Passes",
+                    "value": "5"
+                },
+                {
+                    "name": "Tackles Won",
+                    "value": "3"
+                },
+                {
+                    "name": "Clean Sheets",
+                    "value": "1"
+                },
+                {
+                    "name": "Times Tackled",
+                    "value": "1"
+                },
+                {
+                    "name": "Successful Short Passes",
+                    "value": "53"
+                },
+                {
+                    "name": "Successful Long Passes",
+                    "value": "8"
+                },
+                {
+                    "name": "Total Unsuccessful Passes ( Excl Crosses & Corners )",
+                    "value": "16"
+                },
+                {
+                    "name": "Ground Duels lost",
+                    "value": "2"
+                },
+                {
+                    "name": "Home Goals",
+                    "value": "0"
+                },
+                {
+                    "name": "Away Goals",
+                    "value": "0"
+                },
+                {
+                    "name": "Winning Goal",
+                    "value": "0"
+                }
+            ]
+        },
+        {
+            "position": "Forward",
+            "id": "aki4rp2wba5l3t05fzymgot0p",
+            "shirtNumber": "22",
+            "firstName": "Benjamin Anthony",
+            "lastName": "Brereton Díaz",
+            "shortFirstName": "Ben",
+            "shortLastName": "Brereton",
+            "matchName": "B. Brereton",
+            "stat": [
+                {
+                    "name": "Ground Duels",
+                    "value": "16"
+                },
+                {
+                    "name": "Games Played",
+                    "value": "2"
+                },
+                {
+                    "name": "Touches",
+                    "value": "74"
+                },
+                {
+                    "name": "Time Played",
+                    "value": "149"
+                },
+                {
+                    "name": "Total Successful Passes ( Excl Crosses & Corners ) ",
+                    "value": "36"
+                },
+                {
+                    "name": "Total Losses Of Possession",
+                    "value": "22"
+                },
+                {
+                    "name": "Total Shots",
+                    "value": "3"
+                },
+                {
+                    "name": "Forward Passes",
+                    "value": "5"
+                },
+                {
+                    "name": "Successful Passes Opposition Half",
+                    "value": "23"
+                },
+                {
+                    "name": "Foul Attempted Tackle",
+                    "value": "1"
+                },
+                {
+                    "name": "Unsuccessful Dribbles",
+                    "value": "3"
+                },
+                {
+                    "name": "Duels won",
+                    "value": "5"
+                },
+                {
+                    "name": "Shots On Target ( inc goals )",
+                    "value": "2"
+                },
+                {
+                    "name": "Successful Lay-offs",
+                    "value": "1"
+                },
+                {
+                    "name": "Substitute Off",
+                    "value": "1"
+                },
+                {
+                    "name": "Total Clearances",
+                    "value": "2"
+                },
+                {
+                    "name": "Unsuccessful Short Passes",
+                    "value": "4"
+                },
+                {
+                    "name": "Total Fouls Conceded",
+                    "value": "2"
+                },
+                {
+                    "name": "Leftside Passes",
+                    "value": "5"
+                },
+                {
+                    "name": "Appearances",
+                    "value": "2"
+                },
+                {
+                    "name": "Successful Passes Own Half",
+                    "value": "13"
+                },
+                {
+                    "name": "PutThrough/Blocked Distribution",
+                    "value": "2"
+                },
+                {
+                    "name": "Ground Duels won",
+                    "value": "5"
+                },
+                {
+                    "name": "Rightside Passes",
+                    "value": "18"
+                },
+                {
+                    "name": "Open Play Passes",
+                    "value": "41"
+                },
+                {
+                    "name": "Goals Conceded",
+                    "value": "1"
+                },
+                {
+                    "name": "Shots Off Target (inc woodwork)",
+                    "value": "1"
+                },
+                {
+                    "name": "Duels lost",
+                    "value": "11"
+                },
+                {
+                    "name": "Recoveries",
+                    "value": "8"
+                },
+                {
+                    "name": "Unsuccessful Passes Own Half",
+                    "value": "2"
+                },
+                {
+                    "name": "Backward Passes",
+                    "value": "14"
+                },
+                {
+                    "name": "Goals Conceded Inside Box",
+                    "value": "1"
+                },
+                {
+                    "name": "Total Passes",
+                    "value": "42"
+                },
+                {
+                    "name": "Tackles Lost",
+                    "value": "1"
+                },
+                {
+                    "name": "Starts",
+                    "value": "2"
+                },
+                {
+                    "name": "Total Touches In Opposition Box",
+                    "value": "5"
+                },
+                {
+                    "name": "Successful Open Play Passes",
+                    "value": "35"
+                },
+                {
+                    "name": "Total Tackles",
+                    "value": "1"
+                },
+                {
+                    "name": "Unsuccessful Passes Opposition Half",
+                    "value": "4"
+                },
+                {
+                    "name": "Duels",
+                    "value": "16"
+                },
+                {
+                    "name": "Interceptions",
+                    "value": "1"
+                },
+                {
+                    "name": "Index",
+                    "value": "10"
+                },
+                {
+                    "name": "Total Fouls Won",
+                    "value": "4"
+                },
+                {
+                    "name": "Unsuccessful Long Passes",
+                    "value": "2"
+                },
+                {
+                    "name": "Clean Sheets",
+                    "value": "1"
+                },
+                {
+                    "name": "Times Tackled",
+                    "value": "8"
+                },
+                {
+                    "name": "Successful Short Passes",
+                    "value": "35"
+                },
+                {
+                    "name": "Successful Long Passes",
+                    "value": "1"
+                },
+                {
+                    "name": "Total Unsuccessful Passes ( Excl Crosses & Corners )",
+                    "value": "6"
+                },
+                {
+                    "name": "Ground Duels lost",
+                    "value": "11"
+                },
+                {
+                    "name": "Home Goals",
+                    "value": "0"
+                },
+                {
+                    "name": "Away Goals",
+                    "value": "0"
+                },
+                {
+                    "name": "Winning Goal",
+                    "value": "0"
+                }
+            ]
+        },
+        {
+            "position": "Goalkeeper",
+            "id": "7s0xdwfq3gznmfrkegfk3mu39",
+            "shirtNumber": "23",
+            "firstName": "Fernando Carlos",
+            "lastName": "De Paul Lanciotti",
+            "shortFirstName": "Fernando",
+            "shortLastName": "De Paul",
+            "matchName": "F. De Paul"
+        },
+        {
+            "position": "Defender",
+            "id": "6lhki0fcdh5sl6d89u8y0l87p",
+            "shirtNumber": "5",
+            "firstName": "Paulo César",
+            "lastName": "Díaz Huincales",
+            "shortFirstName": "Paulo",
+            "shortLastName": "Díaz",
+            "matchName": "P. Díaz",
+            "stat": [
+                {
+                    "name": "Ground Duels",
+                    "value": "8"
+                },
+                {
+                    "name": "Aerial Duels lost",
+                    "value": "2"
+                },
+                {
+                    "name": "Games Played",
+                    "value": "2"
+                },
+                {
+                    "name": "Touches",
+                    "value": "189"
+                },
+                {
+                    "name": "Time Played",
+                    "value": "180"
+                },
+                {
+                    "name": "Total Successful Passes ( Excl Crosses & Corners ) ",
+                    "value": "155"
+                },
+                {
+                    "name": "Unsuccessful Launches",
+                    "value": "3"
+                },
+                {
+                    "name": "Total Losses Of Possession",
+                    "value": "15"
+                },
+                {
+                    "name": "Forward Passes",
+                    "value": "52"
+                },
+                {
+                    "name": "Successful Passes Opposition Half",
+                    "value": "49"
+                },
+                {
+                    "name": "Duels won",
+                    "value": "10"
+                },
+                {
+                    "name": "Total Clearances",
+                    "value": "3"
+                },
+                {
+                    "name": "Unsuccessful Short Passes",
+                    "value": "8"
+                },
+                {
+                    "name": "Leftside Passes",
+                    "value": "51"
+                },
+                {
+                    "name": "Appearances",
+                    "value": "2"
+                },
+                {
+                    "name": "Aerial Duels",
+                    "value": "7"
+                },
+                {
+                    "name": "Aerial Duels won",
+                    "value": "5"
+                },
+                {
+                    "name": "Successful Passes Own Half",
+                    "value": "106"
+                },
+                {
+                    "name": "PutThrough/Blocked Distribution",
+                    "value": "2"
+                },
+                {
+                    "name": "Ground Duels won",
+                    "value": "5"
+                },
+                {
+                    "name": "Rightside Passes",
+                    "value": "63"
+                },
+                {
+                    "name": "Open Play Passes",
+                    "value": "160"
+                },
+                {
+                    "name": "Goals Conceded",
+                    "value": "2"
+                },
+                {
+                    "name": "PutThrough/Blocked Distribution Won",
+                    "value": "2"
+                },
+                {
+                    "name": "Duels lost",
+                    "value": "5"
+                },
+                {
+                    "name": "Recoveries",
+                    "value": "18"
+                },
+                {
+                    "name": "Unsuccessful Passes Own Half",
+                    "value": "7"
+                },
+                {
+                    "name": "Backward Passes",
+                    "value": "3"
+                },
+                {
+                    "name": "Goals Conceded Inside Box",
+                    "value": "2"
+                },
+                {
+                    "name": "Total Passes",
+                    "value": "169"
+                },
+                {
+                    "name": "Starts",
+                    "value": "2"
+                },
+                {
+                    "name": "Successful Open Play Passes",
+                    "value": "146"
+                },
+                {
+                    "name": "Total Tackles",
+                    "value": "3"
+                },
+                {
+                    "name": "Unsuccessful Passes Opposition Half",
+                    "value": "7"
+                },
+                {
+                    "name": "Duels",
+                    "value": "15"
+                },
+                {
+                    "name": "Interceptions",
+                    "value": "5"
+                },
+                {
+                    "name": "Index",
+                    "value": "10"
+                },
+                {
+                    "name": "Total Fouls Won",
+                    "value": "2"
+                },
+                {
+                    "name": "Unsuccessful Long Passes",
+                    "value": "6"
+                },
+                {
+                    "name": "Tackles Won",
+                    "value": "3"
+                },
+                {
+                    "name": "Clean Sheets",
+                    "value": "1"
+                },
+                {
+                    "name": "Successful Short Passes",
+                    "value": "139"
+                },
+                {
+                    "name": "Successful Long Passes",
+                    "value": "16"
+                },
+                {
+                    "name": "Total Unsuccessful Passes ( Excl Crosses & Corners )",
+                    "value": "14"
+                },
+                {
+                    "name": "Ground Duels lost",
+                    "value": "3"
+                },
+                {
+                    "name": "Home Goals",
+                    "value": "0"
+                },
+                {
+                    "name": "Away Goals",
+                    "value": "0"
+                },
+                {
+                    "name": "Winning Goal",
+                    "value": "0"
+                }
+            ]
+        },
+        {
+            "position": "Forward",
+            "id": "1qckpmqgbt2tcxqwfyuflt2vp",
+            "shirtNumber": "11",
+            "firstName": "Ronnie Alan",
+            "lastName": "Fernández Sáez",
+            "shortFirstName": "Ronnie",
+            "shortLastName": "Fernández",
+            "matchName": "R. Fernández",
+            "stat": [
+                {
+                    "name": "Ground Duels",
+                    "value": "9"
+                },
+                {
+                    "name": "Games Played",
+                    "value": "2"
+                },
+                {
+                    "name": "Touches",
+                    "value": "28"
+                },
+                {
+                    "name": "Yellow Cards",
+                    "value": "1"
+                },
+                {
+                    "name": "Time Played",
+                    "value": "99"
+                },
+                {
+                    "name": "Total Successful Passes ( Excl Crosses & Corners ) ",
+                    "value": "11"
+                },
+                {
+                    "name": "Total Losses Of Possession",
+                    "value": "10"
+                },
+                {
+                    "name": "Total Shots",
+                    "value": "3"
+                },
+                {
+                    "name": "Forward Passes",
+                    "value": "4"
+                },
+                {
+                    "name": "Successful Passes Opposition Half",
+                    "value": "6"
+                },
+                {
+                    "name": "Foul Attempted Tackle",
+                    "value": "1"
+                },
+                {
+                    "name": "Duels won",
+                    "value": "5"
+                },
+                {
+                    "name": "Successful Lay-offs",
+                    "value": "1"
+                },
+                {
+                    "name": "Unsuccessful Short Passes",
+                    "value": "5"
+                },
+                {
+                    "name": "Total Fouls Conceded",
+                    "value": "4"
+                },
+                {
+                    "name": "Leftside Passes",
+                    "value": "2"
+                },
+                {
+                    "name": "Appearances",
+                    "value": "2"
+                },
+                {
+                    "name": "Aerial Duels",
+                    "value": "4"
+                },
+                {
+                    "name": "Aerial Duels won",
+                    "value": "4"
+                },
+                {
+                    "name": "Successful Passes Own Half",
+                    "value": "5"
+                },
+                {
+                    "name": "PutThrough/Blocked Distribution",
+                    "value": "1"
+                },
+                {
+                    "name": "Ground Duels won",
+                    "value": "1"
+                },
+                {
+                    "name": "Rightside Passes",
+                    "value": "6"
+                },
+                {
+                    "name": "Open Play Passes",
+                    "value": "14"
+                },
+                {
+                    "name": "Goals Conceded",
+                    "value": "2"
+                },
+                {
+                    "name": "PutThrough/Blocked Distribution Won",
+                    "value": "1"
+                },
+                {
+                    "name": "Shots Off Target (inc woodwork)",
+                    "value": "3"
+                },
+                {
+                    "name": "Duels lost",
+                    "value": "8"
+                },
+                {
+                    "name": "Recoveries",
+                    "value": "2"
+                },
+                {
+                    "name": "Unsuccessful Passes Own Half",
+                    "value": "1"
+                },
+                {
+                    "name": "Backward Passes",
+                    "value": "5"
+                },
+                {
+                    "name": "Goals Conceded Inside Box",
+                    "value": "2"
+                },
+                {
+                    "name": "Total Passes",
+                    "value": "17"
+                },
+                {
+                    "name": "Starts",
+                    "value": "1"
+                },
+                {
+                    "name": "Total Touches In Opposition Box",
+                    "value": "4"
+                },
+                {
+                    "name": "Successful Open Play Passes",
+                    "value": "8"
+                },
+                {
+                    "name": "Total Tackles",
+                    "value": "1"
+                },
+                {
+                    "name": "Unsuccessful Passes Opposition Half",
+                    "value": "5"
+                },
+                {
+                    "name": "Duels",
+                    "value": "13"
+                },
+                {
+                    "name": "Substitute On",
+                    "value": "1"
+                },
+                {
+                    "name": "Index",
+                    "value": "10"
+                },
+                {
+                    "name": "Blocked Shots",
+                    "value": "1"
+                },
+                {
+                    "name": "Unsuccessful Long Passes",
+                    "value": "1"
+                },
+                {
+                    "name": "Tackles Won",
+                    "value": "1"
+                },
+                {
+                    "name": "Times Tackled",
+                    "value": "3"
+                },
+                {
+                    "name": "Offsides",
+                    "value": "1"
+                },
+                {
+                    "name": "Successful Short Passes",
+                    "value": "10"
+                },
+                {
+                    "name": "Successful Long Passes",
+                    "value": "1"
+                },
+                {
+                    "name": "Total Unsuccessful Passes ( Excl Crosses & Corners )",
+                    "value": "6"
+                },
+                {
+                    "name": "Ground Duels lost",
+                    "value": "8"
+                },
+                {
+                    "name": "Home Goals",
+                    "value": "0"
+                },
+                {
+                    "name": "Away Goals",
+                    "value": "0"
+                },
+                {
+                    "name": "Winning Goal",
+                    "value": "0"
+                }
+            ]
+        },
+        {
+            "position": "Midfielder",
+            "id": "860ysqvvnpfya7bwxbe4g0wk5",
+            "shirtNumber": "14",
+            "firstName": "Pablo Ignacio",
+            "lastName": "Galdames Millán",
+            "shortFirstName": "Pablo",
+            "shortLastName": "Galdames",
+            "matchName": "P. Galdames",
+            "stat": [
+                {
+                    "name": "Ground Duels",
+                    "value": "31"
+                },
+                {
+                    "name": "Corners Won",
+                    "value": "2"
+                },
+                {
+                    "name": "Games Played",
+                    "value": "2"
+                },
+                {
+                    "name": "Touches",
+                    "value": "123"
+                },
+                {
+                    "name": "Yellow Cards",
+                    "value": "1"
+                },
+                {
+                    "name": "Time Played",
+                    "value": "171"
+                },
+                {
+                    "name": "Total Successful Passes ( Excl Crosses & Corners ) ",
+                    "value": "70"
+                },
+                {
+                    "name": "Total Losses Of Possession",
+                    "value": "35"
+                },
+                {
+                    "name": "Through balls",
+                    "value": "4"
+                },
+                {
+                    "name": "Total Shots",
+                    "value": "2"
+                },
+                {
+                    "name": "Forward Passes",
+                    "value": "30"
+                },
+                {
+                    "name": "Successful Passes Opposition Half",
+                    "value": "36"
+                },
+                {
+                    "name": "Foul Attempted Tackle",
+                    "value": "5"
+                },
+                {
+                    "name": "Unsuccessful Dribbles",
+                    "value": "5"
+                },
+                {
+                    "name": "Duels won",
+                    "value": "9"
+                },
+                {
+                    "name": "Shots On Target ( inc goals )",
+                    "value": "1"
+                },
+                {
+                    "name": "Successful Lay-offs",
+                    "value": "1"
+                },
+                {
+                    "name": "Substitute Off",
+                    "value": "1"
+                },
+                {
+                    "name": "Total Clearances",
+                    "value": "1"
+                },
+                {
+                    "name": "Unsuccessful Short Passes",
+                    "value": "17"
+                },
+                {
+                    "name": "Total Fouls Conceded",
+                    "value": "8"
+                },
+                {
+                    "name": "Leftside Passes",
+                    "value": "23"
+                },
+                {
+                    "name": "Unsuccessful Crosses & Corners",
+                    "value": "2"
+                },
+                {
+                    "name": "Appearances",
+                    "value": "2"
+                },
+                {
+                    "name": "Successful Passes Own Half",
+                    "value": "37"
+                },
+                {
+                    "name": "PutThrough/Blocked Distribution",
+                    "value": "4"
+                },
+                {
+                    "name": "Ground Duels won",
+                    "value": "9"
+                },
+                {
+                    "name": "Rightside Passes",
+                    "value": "23"
+                },
+                {
+                    "name": "Open Play Passes",
+                    "value": "88"
+                },
+                {
+                    "name": "Goals Conceded",
+                    "value": "2"
+                },
+                {
+                    "name": "PutThrough/Blocked Distribution Won",
+                    "value": "1"
+                },
+                {
+                    "name": "Shots Off Target (inc woodwork)",
+                    "value": "1"
+                },
+                {
+                    "name": "Duels lost",
+                    "value": "22"
+                },
+                {
+                    "name": "Recoveries",
+                    "value": "10"
+                },
+                {
+                    "name": "Unsuccessful Passes Own Half",
+                    "value": "6"
+                },
+                {
+                    "name": "Backward Passes",
+                    "value": "17"
+                },
+                {
+                    "name": "Goals Conceded Inside Box",
+                    "value": "2"
+                },
+                {
+                    "name": "Successful Corners into Box",
+                    "value": "1"
+                },
+                {
+                    "name": "Total Passes",
+                    "value": "93"
+                },
+                {
+                    "name": "Successful Crosses & Corners",
+                    "value": "3"
+                },
+                {
+                    "name": "Key Passes (Attempt Assists)",
+                    "value": "3"
+                },
+                {
+                    "name": "Tackles Lost",
+                    "value": "2"
+                },
+                {
+                    "name": "Starts",
+                    "value": "2"
+                },
+                {
+                    "name": "Corners Taken (incl short corners)",
+                    "value": "3"
+                },
+                {
+                    "name": "Total Touches In Opposition Box",
+                    "value": "2"
+                },
+                {
+                    "name": "Successful Open Play Passes",
+                    "value": "68"
+                },
+                {
+                    "name": "Total Tackles",
+                    "value": "6"
+                },
+                {
+                    "name": "Unsuccessful Passes Opposition Half",
+                    "value": "19"
+                },
+                {
+                    "name": "Duels",
+                    "value": "31"
+                },
+                {
+                    "name": "Interceptions",
+                    "value": "1"
+                },
+                {
+                    "name": "Unsuccessful Corners into Box",
+                    "value": "2"
+                },
+                {
+                    "name": "Index",
+                    "value": "10"
+                },
+                {
+                    "name": "Total Fouls Won",
+                    "value": "3"
+                },
+                {
+                    "name": "Blocked Shots",
+                    "value": "1"
+                },
+                {
+                    "name": "Unsuccessful Long Passes",
+                    "value": "6"
+                },
+                {
+                    "name": "Tackles Won",
+                    "value": "4"
+                },
+                {
+                    "name": "Times Tackled",
+                    "value": "7"
+                },
+                {
+                    "name": "Successful Short Passes",
+                    "value": "66"
+                },
+                {
+                    "name": "Successful Long Passes",
+                    "value": "4"
+                },
+                {
+                    "name": "Total Unsuccessful Passes ( Excl Crosses & Corners )",
+                    "value": "23"
+                },
+                {
+                    "name": "Successful Crosses open play",
+                    "value": "1"
+                },
+                {
+                    "name": "Ground Duels lost",
+                    "value": "22"
+                },
+                {
+                    "name": "Home Goals",
+                    "value": "0"
+                },
+                {
+                    "name": "Away Goals",
+                    "value": "0"
+                },
+                {
+                    "name": "Winning Goal",
+                    "value": "0"
+                }
+            ]
+        },
+        {
+            "position": "Defender",
+            "id": "7p1eebxgitfz4bhv988kbiqne",
+            "shirtNumber": "25",
+            "firstName": "Alex Matías",
+            "lastName": "Ibacache Mora",
+            "shortFirstName": "Alex",
+            "shortLastName": "Ibacache",
+            "matchName": "A. Ibacache",
+            "stat": [
+                {
+                    "name": "Ground Duels",
+                    "value": "6"
+                },
+                {
+                    "name": "Corners Won",
+                    "value": "1"
+                },
+                {
+                    "name": "Games Played",
+                    "value": "1"
+                },
+                {
+                    "name": "Touches",
+                    "value": "44"
+                },
+                {
+                    "name": "Time Played",
+                    "value": "81"
+                },
+                {
+                    "name": "Total Successful Passes ( Excl Crosses & Corners ) ",
+                    "value": "21"
+                },
+                {
+                    "name": "Throw Ins to Opposition Player",
+                    "value": "1"
+                },
+                {
+                    "name": "Total Losses Of Possession",
+                    "value": "11"
+                },
+                {
+                    "name": "Forward Passes",
+                    "value": "7"
+                },
+                {
+                    "name": "Throw Ins to Own Player",
+                    "value": "7"
+                },
+                {
+                    "name": "Successful Passes Opposition Half",
+                    "value": "8"
+                },
+                {
+                    "name": "Unsuccessful Dribbles",
+                    "value": "2"
+                },
+                {
+                    "name": "Duels won",
+                    "value": "3"
+                },
+                {
+                    "name": "Substitute Off",
+                    "value": "1"
+                },
+                {
+                    "name": "Total Clearances",
+                    "value": "1"
+                },
+                {
+                    "name": "Unsuccessful Short Passes",
+                    "value": "5"
+                },
+                {
+                    "name": "Unsuccessful Crosses open play",
+                    "value": "2"
+                },
+                {
+                    "name": "Unsuccessful Crosses & Corners",
+                    "value": "2"
+                },
+                {
+                    "name": "Appearances",
+                    "value": "1"
+                },
+                {
+                    "name": "Successful Passes Own Half",
+                    "value": "13"
+                },
+                {
+                    "name": "PutThrough/Blocked Distribution",
+                    "value": "1"
+                },
+                {
+                    "name": "Ground Duels won",
+                    "value": "3"
+                },
+                {
+                    "name": "Rightside Passes",
+                    "value": "12"
+                },
+                {
+                    "name": "Open Play Passes",
+                    "value": "26"
+                },
+                {
+                    "name": "Duels lost",
+                    "value": "3"
+                },
+                {
+                    "name": "Recoveries",
+                    "value": "1"
+                },
+                {
+                    "name": "Unsuccessful Passes Own Half",
+                    "value": "1"
+                },
+                {
+                    "name": "Backward Passes",
+                    "value": "8"
+                },
+                {
+                    "name": "Total Passes",
+                    "value": "27"
+                },
+                {
+                    "name": "Starts",
+                    "value": "1"
+                },
+                {
+                    "name": "Successful Open Play Passes",
+                    "value": "20"
+                },
+                {
+                    "name": "Total Tackles",
+                    "value": "1"
+                },
+                {
+                    "name": "Unsuccessful Passes Opposition Half",
+                    "value": "7"
+                },
+                {
+                    "name": "Duels",
+                    "value": "6"
+                },
+                {
+                    "name": "Index",
+                    "value": "10"
+                },
+                {
+                    "name": "Total Fouls Won",
+                    "value": "2"
+                },
+                {
+                    "name": "Unsuccessful Long Passes",
+                    "value": "1"
+                },
+                {
+                    "name": "Tackles Won",
+                    "value": "1"
+                },
+                {
+                    "name": "Times Tackled",
+                    "value": "2"
+                },
+                {
+                    "name": "Successful Short Passes",
+                    "value": "21"
+                },
+                {
+                    "name": "Total Unsuccessful Passes ( Excl Crosses & Corners )",
+                    "value": "6"
+                },
+                {
+                    "name": "Ground Duels lost",
+                    "value": "3"
+                },
+                {
+                    "name": "Home Goals",
+                    "value": "0"
+                },
+                {
+                    "name": "Away Goals",
+                    "value": "0"
+                },
+                {
+                    "name": "Winning Goal",
+                    "value": "0"
+                }
+            ]
+        },
+        {
+            "position": "Defender",
+            "id": "4s0cgwchahxqfowf7v1edb5cl",
+            "shirtNumber": "3",
+            "firstName": "Benjamín",
+            "lastName": "Kuscevic Jaramillo",
+            "shortFirstName": "Benjamín",
+            "shortLastName": "Kuscevic",
+            "matchName": "B. Kuscevic",
+            "stat": [
+                {
+                    "name": "Ground Duels",
+                    "value": "8"
+                },
+                {
+                    "name": "Aerial Duels lost",
+                    "value": "1"
+                },
+                {
+                    "name": "Games Played",
+                    "value": "1"
+                },
+                {
+                    "name": "Touches",
+                    "value": "78"
+                },
+                {
+                    "name": "Time Played",
+                    "value": "90"
+                },
+                {
+                    "name": "Total Successful Passes ( Excl Crosses & Corners ) ",
+                    "value": "57"
+                },
+                {
+                    "name": "Unsuccessful Launches",
+                    "value": "1"
+                },
+                {
+                    "name": "Total Losses Of Possession",
+                    "value": "7"
+                },
+                {
+                    "name": "Forward Passes",
+                    "value": "24"
+                },
+                {
+                    "name": "Successful Passes Opposition Half",
+                    "value": "18"
+                },
+                {
+                    "name": "Duels won",
+                    "value": "10"
+                },
+                {
+                    "name": "Total Clearances",
+                    "value": "4"
+                },
+                {
+                    "name": "Unsuccessful Short Passes",
+                    "value": "3"
+                },
+                {
+                    "name": "Leftside Passes",
+                    "value": "5"
+                },
+                {
+                    "name": "Appearances",
+                    "value": "1"
+                },
+                {
+                    "name": "Aerial Duels",
+                    "value": "4"
+                },
+                {
+                    "name": "Aerial Duels won",
+                    "value": "3"
+                },
+                {
+                    "name": "Successful Passes Own Half",
+                    "value": "39"
+                },
+                {
+                    "name": "PutThrough/Blocked Distribution",
+                    "value": "1"
+                },
+                {
+                    "name": "Ground Duels won",
+                    "value": "7"
+                },
+                {
+                    "name": "Rightside Passes",
+                    "value": "31"
+                },
+                {
+                    "name": "Open Play Passes",
+                    "value": "62"
+                },
+                {
+                    "name": "PutThrough/Blocked Distribution Won",
+                    "value": "1"
+                },
+                {
+                    "name": "Duels lost",
+                    "value": "2"
+                },
+                {
+                    "name": "Recoveries",
+                    "value": "3"
+                },
+                {
+                    "name": "Unsuccessful Passes Own Half",
+                    "value": "2"
+                },
+                {
+                    "name": "Backward Passes",
+                    "value": "3"
+                },
+                {
+                    "name": "Total Passes",
+                    "value": "63"
+                },
+                {
+                    "name": "Tackles Lost",
+                    "value": "2"
+                },
+                {
+                    "name": "Starts",
+                    "value": "1"
+                },
+                {
+                    "name": "Successful Open Play Passes",
+                    "value": "56"
+                },
+                {
+                    "name": "Total Tackles",
+                    "value": "5"
+                },
+                {
+                    "name": "Unsuccessful Passes Opposition Half",
+                    "value": "4"
+                },
+                {
+                    "name": "Duels",
+                    "value": "12"
+                },
+                {
+                    "name": "Interceptions",
+                    "value": "2"
+                },
+                {
+                    "name": "Index",
+                    "value": "10"
+                },
+                {
+                    "name": "Total Fouls Won",
+                    "value": "2"
+                },
+                {
+                    "name": "Unsuccessful Long Passes",
+                    "value": "3"
+                },
+                {
+                    "name": "Tackles Won",
+                    "value": "3"
+                },
+                {
+                    "name": "Clean Sheets",
+                    "value": "1"
+                },
+                {
+                    "name": "Times Tackled",
+                    "value": "1"
+                },
+                {
+                    "name": "Successful Short Passes",
+                    "value": "54"
+                },
+                {
+                    "name": "Successful Long Passes",
+                    "value": "3"
+                },
+                {
+                    "name": "Total Unsuccessful Passes ( Excl Crosses & Corners )",
+                    "value": "6"
+                },
+                {
+                    "name": "Ground Duels lost",
+                    "value": "1"
+                },
+                {
+                    "name": "Home Goals",
+                    "value": "0"
+                },
+                {
+                    "name": "Away Goals",
+                    "value": "0"
+                },
+                {
+                    "name": "Winning Goal",
+                    "value": "0"
+                }
+            ]
+        },
+        {
+            "position": "Goalkeeper",
+            "id": "4dp0s21kfvmrui9w10hl1gi51",
+            "shirtNumber": "12",
+            "firstName": "Zacarias Orlando",
+            "lastName": "López González",
+            "shortFirstName": "Zacarías",
+            "shortLastName": "López",
+            "matchName": "Z. López",
+            "stat": [
+                {
+                    "name": "Games Played",
+                    "value": "1"
+                },
+                {
+                    "name": "Touches",
+                    "value": "27"
+                },
+                {
+                    "name": "Time Played",
+                    "value": "90"
+                },
+                {
+                    "name": "Total Successful Passes ( Excl Crosses & Corners ) ",
+                    "value": "19"
+                },
+                {
+                    "name": "Unsuccessful Launches",
+                    "value": "1"
+                },
+                {
+                    "name": "Total Losses Of Possession",
+                    "value": "1"
+                },
+                {
+                    "name": "Saves made - parried",
+                    "value": "1"
+                },
+                {
+                    "name": "Forward Passes",
+                    "value": "10"
+                },
+                {
+                    "name": "Leftside Passes",
+                    "value": "7"
+                },
+                {
+                    "name": "Appearances",
+                    "value": "1"
+                },
+                {
+                    "name": "Successful Passes Own Half",
+                    "value": "19"
+                },
+                {
+                    "name": "Goalkeeper Smother",
+                    "value": "1"
+                },
+                {
+                    "name": "Rightside Passes",
+                    "value": "3"
+                },
+                {
+                    "name": "Open Play Passes",
+                    "value": "11"
+                },
+                {
+                    "name": "Saves Made from Outside Box",
+                    "value": "1"
+                },
+                {
+                    "name": "Goals Conceded",
+                    "value": "2"
+                },
+                {
+                    "name": "Recoveries",
+                    "value": "4"
+                },
+                {
+                    "name": "Goals Conceded Inside Box",
+                    "value": "2"
+                },
+                {
+                    "name": "Total Passes",
+                    "value": "20"
+                },
+                {
+                    "name": "Starts",
+                    "value": "1"
+                },
+                {
+                    "name": "Saves Made",
+                    "value": "2"
+                },
+                {
+                    "name": "Successful Open Play Passes",
+                    "value": "10"
+                },
+                {
+                    "name": "Successful Launches",
+                    "value": "2"
+                },
+                {
+                    "name": "Unsuccessful Passes Opposition Half",
+                    "value": "1"
+                },
+                {
+                    "name": "Index",
+                    "value": "10"
+                },
+                {
+                    "name": "GK Successful Distribution",
+                    "value": "13"
+                },
+                {
+                    "name": "Unsuccessful Long Passes",
+                    "value": "1"
+                },
+                {
+                    "name": "Successful Short Passes",
+                    "value": "16"
+                },
+                {
+                    "name": "Successful Long Passes",
+                    "value": "3"
+                },
+                {
+                    "name": "Total Unsuccessful Passes ( Excl Crosses & Corners )",
+                    "value": "1"
+                },
+                {
+                    "name": "Saves Made from Inside Box",
+                    "value": "1"
+                },
+                {
+                    "name": "Home Goals",
+                    "value": "0"
+                },
+                {
+                    "name": "Away Goals",
+                    "value": "0"
+                },
+                {
+                    "name": "Winning Goal",
+                    "value": "0"
+                }
+            ]
+        },
+        {
+            "position": "Defender",
+            "id": "4zn8zufrd17h9d5xl7qhahbyt",
+            "shirtNumber": "17",
+            "firstName": "Gary Alexis",
+            "lastName": "Medel Soto",
+            "shortFirstName": "Gary",
+            "shortLastName": "Medel",
+            "matchName": "G. Medel",
+            "stat": [
+                {
+                    "name": "Ground Duels",
+                    "value": "8"
+                },
+                {
+                    "name": "Games Played",
+                    "value": "2"
+                },
+                {
+                    "name": "Touches",
+                    "value": "85"
+                },
+                {
+                    "name": "Time Played",
+                    "value": "76"
+                },
+                {
+                    "name": "Total Successful Passes ( Excl Crosses & Corners ) ",
+                    "value": "71"
+                },
+                {
+                    "name": "Total Losses Of Possession",
+                    "value": "6"
+                },
+                {
+                    "name": "Total Shots",
+                    "value": "2"
+                },
+                {
+                    "name": "Forward Passes",
+                    "value": "18"
+                },
+                {
+                    "name": "Successful Passes Opposition Half",
+                    "value": "38"
+                },
+                {
+                    "name": "Duels won",
+                    "value": "3"
+                },
+                {
+                    "name": "Successful Lay-offs",
+                    "value": "1"
+                },
+                {
+                    "name": "Substitute Off",
+                    "value": "1"
+                },
+                {
+                    "name": "Unsuccessful Short Passes",
+                    "value": "1"
+                },
+                {
+                    "name": "Leftside Passes",
+                    "value": "25"
+                },
+                {
+                    "name": "Appearances",
+                    "value": "2"
+                },
+                {
+                    "name": "Successful Passes Own Half",
+                    "value": "33"
+                },
+                {
+                    "name": "PutThrough/Blocked Distribution",
+                    "value": "2"
+                },
+                {
+                    "name": "Ground Duels won",
+                    "value": "3"
+                },
+                {
+                    "name": "Rightside Passes",
+                    "value": "19"
+                },
+                {
+                    "name": "Open Play Passes",
+                    "value": "72"
+                },
+                {
+                    "name": "Goals Conceded",
+                    "value": "1"
+                },
+                {
+                    "name": "PutThrough/Blocked Distribution Won",
+                    "value": "2"
+                },
+                {
+                    "name": "Shots Off Target (inc woodwork)",
+                    "value": "2"
+                },
+                {
+                    "name": "Duels lost",
+                    "value": "5"
+                },
+                {
+                    "name": "Recoveries",
+                    "value": "3"
+                },
+                {
+                    "name": "Backward Passes",
+                    "value": "12"
+                },
+                {
+                    "name": "Goals Conceded Inside Box",
+                    "value": "1"
+                },
+                {
+                    "name": "Total Passes",
+                    "value": "74"
+                },
+                {
+                    "name": "Key Passes (Attempt Assists)",
+                    "value": "1"
+                },
+                {
+                    "name": "Tackles Lost",
+                    "value": "1"
+                },
+                {
+                    "name": "Starts",
+                    "value": "1"
+                },
+                {
+                    "name": "Successful Open Play Passes",
+                    "value": "69"
+                },
+                {
+                    "name": "Total Tackles",
+                    "value": "2"
+                },
+                {
+                    "name": "Unsuccessful Passes Opposition Half",
+                    "value": "3"
+                },
+                {
+                    "name": "Duels",
+                    "value": "8"
+                },
+                {
+                    "name": "Interceptions",
+                    "value": "1"
+                },
+                {
+                    "name": "Substitute On",
+                    "value": "1"
+                },
+                {
+                    "name": "Index",
+                    "value": "10"
+                },
+                {
+                    "name": "Total Fouls Won",
+                    "value": "1"
+                },
+                {
+                    "name": "Unsuccessful Long Passes",
+                    "value": "2"
+                },
+                {
+                    "name": "Tackles Won",
+                    "value": "1"
+                },
+                {
+                    "name": "Successful Short Passes",
+                    "value": "66"
+                },
+                {
+                    "name": "Successful Long Passes",
+                    "value": "5"
+                },
+                {
+                    "name": "Total Unsuccessful Passes ( Excl Crosses & Corners )",
+                    "value": "3"
+                },
+                {
+                    "name": "Ground Duels lost",
+                    "value": "5"
+                },
+                {
+                    "name": "Home Goals",
+                    "value": "0"
+                },
+                {
+                    "name": "Away Goals",
+                    "value": "0"
+                },
+                {
+                    "name": "Winning Goal",
+                    "value": "0"
+                }
+            ]
+        },
+        {
+            "position": "Defender",
+            "id": "5zdapzrncz7vch3yrgftfp5g",
+            "shirtNumber": "6",
+            "firstName": "Nayel Rayan",
+            "lastName": "Mehssatou Sepúlveda",
+            "shortFirstName": "Nayel",
+            "shortLastName": "Mehssatou",
+            "matchName": "N. Mehssatou",
+            "stat": [
+                {
+                    "name": "Ground Duels",
+                    "value": "12"
+                },
+                {
+                    "name": "Corners Won",
+                    "value": "1"
+                },
+                {
+                    "name": "Games Played",
+                    "value": "2"
+                },
+                {
+                    "name": "Touches",
+                    "value": "80"
+                },
+                {
+                    "name": "Time Played",
+                    "value": "97"
+                },
+                {
+                    "name": "Total Successful Passes ( Excl Crosses & Corners ) ",
+                    "value": "55"
+                },
+                {
+                    "name": "Throw Ins to Opposition Player",
+                    "value": "1"
+                },
+                {
+                    "name": "Total Losses Of Possession",
+                    "value": "11"
+                },
+                {
+                    "name": "Forward Passes",
+                    "value": "13"
+                },
+                {
+                    "name": "Throw Ins to Own Player",
+                    "value": "5"
+                },
+                {
+                    "name": "Successful Passes Opposition Half",
+                    "value": "28"
+                },
+                {
+                    "name": "Foul Attempted Tackle",
+                    "value": "2"
+                },
+                {
+                    "name": "Unsuccessful Dribbles",
+                    "value": "1"
+                },
+                {
+                    "name": "Duels won",
+                    "value": "5"
+                },
+                {
+                    "name": "Unsuccessful Short Passes",
+                    "value": "5"
+                },
+                {
+                    "name": "Total Fouls Conceded",
+                    "value": "5"
+                },
+                {
+                    "name": "Unsuccessful Crosses open play",
+                    "value": "2"
+                },
+                {
+                    "name": "Leftside Passes",
+                    "value": "17"
+                },
+                {
+                    "name": "Unsuccessful Crosses & Corners",
+                    "value": "3"
+                },
+                {
+                    "name": "Appearances",
+                    "value": "2"
+                },
+                {
+                    "name": "Successful Passes Own Half",
+                    "value": "29"
+                },
+                {
+                    "name": "PutThrough/Blocked Distribution",
+                    "value": "1"
+                },
+                {
+                    "name": "Ground Duels won",
+                    "value": "5"
+                },
+                {
+                    "name": "Rightside Passes",
+                    "value": "16"
+                },
+                {
+                    "name": "Open Play Passes",
+                    "value": "58"
+                },
+                {
+                    "name": "Goals Conceded",
+                    "value": "1"
+                },
+                {
+                    "name": "Duels lost",
+                    "value": "7"
+                },
+                {
+                    "name": "Recoveries",
+                    "value": "3"
+                },
+                {
+                    "name": "Unsuccessful Passes Own Half",
+                    "value": "2"
+                },
+                {
+                    "name": "Backward Passes",
+                    "value": "14"
+                },
+                {
+                    "name": "Goals Conceded Inside Box",
+                    "value": "1"
+                },
+                {
+                    "name": "Total Passes",
+                    "value": "60"
+                },
+                {
+                    "name": "Successful Crosses & Corners",
+                    "value": "2"
+                },
+                {
+                    "name": "Tackles Lost",
+                    "value": "1"
+                },
+                {
+                    "name": "Starts",
+                    "value": "1"
+                },
+                {
+                    "name": "Corners Taken (incl short corners)",
+                    "value": "1"
+                },
+                {
+                    "name": "Successful Open Play Passes",
+                    "value": "53"
+                },
+                {
+                    "name": "Total Tackles",
+                    "value": "3"
+                },
+                {
+                    "name": "Unsuccessful Passes Opposition Half",
+                    "value": "6"
+                },
+                {
+                    "name": "Duels",
+                    "value": "12"
+                },
+                {
+                    "name": "Substitute On",
+                    "value": "1"
+                },
+                {
+                    "name": "Unsuccessful Corners into Box",
+                    "value": "1"
+                },
+                {
+                    "name": "Index",
+                    "value": "10"
+                },
+                {
+                    "name": "Total Fouls Won",
+                    "value": "2"
+                },
+                {
+                    "name": "Tackles Won",
+                    "value": "2"
+                },
+                {
+                    "name": "Clean Sheets",
+                    "value": "1"
+                },
+                {
+                    "name": "Times Tackled",
+                    "value": "1"
+                },
+                {
+                    "name": "Successful Short Passes",
+                    "value": "54"
+                },
+                {
+                    "name": "Successful Long Passes",
+                    "value": "1"
+                },
+                {
+                    "name": "Total Unsuccessful Passes ( Excl Crosses & Corners )",
+                    "value": "5"
+                },
+                {
+                    "name": "Successful Crosses open play",
+                    "value": "2"
+                },
+                {
+                    "name": "Ground Duels lost",
+                    "value": "7"
+                },
+                {
+                    "name": "Home Goals",
+                    "value": "0"
+                },
+                {
+                    "name": "Away Goals",
+                    "value": "0"
+                },
+                {
+                    "name": "Winning Goal",
+                    "value": "0"
+                }
+            ]
+        },
+        {
+            "position": "Defender",
+            "id": "1p22w96sxfczniz1xc4iihyvp",
+            "shirtNumber": "2",
+            "firstName": "Eugenio Esteban",
+            "lastName": "Mena Reveco",
+            "shortFirstName": "Eugenio",
+            "shortLastName": "Mena",
+            "matchName": "E. Mena",
+            "stat": [
+                {
+                    "name": "Ground Duels",
+                    "value": "14"
+                },
+                {
+                    "name": "Aerial Duels lost",
+                    "value": "1"
+                },
+                {
+                    "name": "Successful Dribbles",
+                    "value": "2"
+                },
+                {
+                    "name": "Games Played",
+                    "value": "2"
+                },
+                {
+                    "name": "Touches",
+                    "value": "110"
+                },
+                {
+                    "name": "Time Played",
+                    "value": "99"
+                },
+                {
+                    "name": "Total Successful Passes ( Excl Crosses & Corners ) ",
+                    "value": "52"
+                },
+                {
+                    "name": "Throw Ins to Opposition Player",
+                    "value": "1"
+                },
+                {
+                    "name": "Unsuccessful Launches",
+                    "value": "1"
+                },
+                {
+                    "name": "Total Losses Of Possession",
+                    "value": "15"
+                },
+                {
+                    "name": "Total Shots",
+                    "value": "1"
+                },
+                {
+                    "name": "Forward Passes",
+                    "value": "24"
+                },
+                {
+                    "name": "Throw Ins to Own Player",
+                    "value": "21"
+                },
+                {
+                    "name": "Successful Passes Opposition Half",
+                    "value": "34"
+                },
+                {
+                    "name": "Foul Attempted Tackle",
+                    "value": "1"
+                },
+                {
+                    "name": "Unsuccessful Dribbles",
+                    "value": "3"
+                },
+                {
+                    "name": "Duels won",
+                    "value": "8"
+                },
+                {
+                    "name": "Total Clearances",
+                    "value": "1"
+                },
+                {
+                    "name": "Unsuccessful Short Passes",
+                    "value": "5"
+                },
+                {
+                    "name": "Total Fouls Conceded",
+                    "value": "1"
+                },
+                {
+                    "name": "Unsuccessful Crosses open play",
+                    "value": "2"
+                },
+                {
+                    "name": "Leftside Passes",
+                    "value": "3"
+                },
+                {
+                    "name": "Unsuccessful Crosses & Corners",
+                    "value": "2"
+                },
+                {
+                    "name": "Appearances",
+                    "value": "2"
+                },
+                {
+                    "name": "Aerial Duels",
+                    "value": "1"
+                },
+                {
+                    "name": "Successful Passes Own Half",
+                    "value": "21"
+                },
+                {
+                    "name": "PutThrough/Blocked Distribution",
+                    "value": "4"
+                },
+                {
+                    "name": "Ground Duels won",
+                    "value": "8"
+                },
+                {
+                    "name": "Rightside Passes",
+                    "value": "23"
+                },
+                {
+                    "name": "Open Play Passes",
+                    "value": "58"
+                },
+                {
+                    "name": "Goals Conceded",
+                    "value": "2"
+                },
+                {
+                    "name": "PutThrough/Blocked Distribution Won",
+                    "value": "2"
+                },
+                {
+                    "name": "Shots Off Target (inc woodwork)",
+                    "value": "1"
+                },
+                {
+                    "name": "Duels lost",
+                    "value": "7"
+                },
+                {
+                    "name": "Recoveries",
+                    "value": "6"
+                },
+                {
+                    "name": "Unsuccessful Passes Own Half",
+                    "value": "1"
+                },
+                {
+                    "name": "Backward Passes",
+                    "value": "10"
+                },
+                {
+                    "name": "Goals Conceded Inside Box",
+                    "value": "2"
+                },
+                {
+                    "name": "Total Passes",
+                    "value": "60"
+                },
+                {
+                    "name": "Successful Crosses & Corners",
+                    "value": "3"
+                },
+                {
+                    "name": "Key Passes (Attempt Assists)",
+                    "value": "5"
+                },
+                {
+                    "name": "Tackles Lost",
+                    "value": "1"
+                },
+                {
+                    "name": "Starts",
+                    "value": "1"
+                },
+                {
+                    "name": "Total Touches In Opposition Box",
+                    "value": "3"
+                },
+                {
+                    "name": "Successful Open Play Passes",
+                    "value": "50"
+                },
+                {
+                    "name": "Total Tackles",
+                    "value": "3"
+                },
+                {
+                    "name": "Unsuccessful Passes Opposition Half",
+                    "value": "9"
+                },
+                {
+                    "name": "Duels",
+                    "value": "15"
+                },
+                {
+                    "name": "Interceptions",
+                    "value": "4"
+                },
+                {
+                    "name": "Substitute On",
+                    "value": "1"
+                },
+                {
+                    "name": "Index",
+                    "value": "10"
+                },
+                {
+                    "name": "Total Fouls Won",
+                    "value": "3"
+                },
+                {
+                    "name": "Unsuccessful Long Passes",
+                    "value": "3"
+                },
+                {
+                    "name": "Tackles Won",
+                    "value": "2"
+                },
+                {
+                    "name": "Times Tackled",
+                    "value": "3"
+                },
+                {
+                    "name": "Successful Short Passes",
+                    "value": "50"
+                },
+                {
+                    "name": "Successful Long Passes",
+                    "value": "2"
+                },
+                {
+                    "name": "Total Unsuccessful Passes ( Excl Crosses & Corners )",
+                    "value": "8"
+                },
+                {
+                    "name": "Successful Crosses open play",
+                    "value": "3"
+                },
+                {
+                    "name": "Ground Duels lost",
+                    "value": "6"
+                },
+                {
+                    "name": "Home Goals",
+                    "value": "0"
+                },
+                {
+                    "name": "Away Goals",
+                    "value": "0"
+                },
+                {
+                    "name": "Winning Goal",
+                    "value": "0"
+                }
+            ]
+        },
+        {
+            "position": "Midfielder",
+            "id": "36bbkyoy8zyyzsbos2ex0fzdh",
+            "shirtNumber": "9",
+            "firstName": "Jean David",
+            "lastName": "Meneses Villarroel",
+            "shortFirstName": "Jean",
+            "shortLastName": "Meneses",
+            "matchName": "J. Meneses",
+            "stat": [
+                {
+                    "name": "Ground Duels",
+                    "value": "1"
+                },
+                {
+                    "name": "Games Played",
+                    "value": "1"
+                },
+                {
+                    "name": "Touches",
+                    "value": "8"
+                },
+                {
+                    "name": "Time Played",
+                    "value": "11"
+                },
+                {
+                    "name": "Total Successful Passes ( Excl Crosses & Corners ) ",
+                    "value": "3"
+                },
+                {
+                    "name": "Total Losses Of Possession",
+                    "value": "3"
+                },
+                {
+                    "name": "Forward Passes",
+                    "value": "1"
+                },
+                {
+                    "name": "Successful Passes Opposition Half",
+                    "value": "2"
+                },
+                {
+                    "name": "Substitute Off",
+                    "value": "1"
+                },
+                {
+                    "name": "Unsuccessful Short Passes",
+                    "value": "2"
+                },
+                {
+                    "name": "Appearances",
+                    "value": "1"
+                },
+                {
+                    "name": "Successful Passes Own Half",
+                    "value": "1"
+                },
+                {
+                    "name": "Rightside Passes",
+                    "value": "2"
+                },
+                {
+                    "name": "Open Play Passes",
+                    "value": "5"
+                },
+                {
+                    "name": "Duels lost",
+                    "value": "1"
+                },
+                {
+                    "name": "Recoveries",
+                    "value": "3"
+                },
+                {
+                    "name": "Backward Passes",
+                    "value": "2"
+                },
+                {
+                    "name": "Total Passes",
+                    "value": "5"
+                },
+                {
+                    "name": "Total Touches In Opposition Box",
+                    "value": "1"
+                },
+                {
+                    "name": "Successful Open Play Passes",
+                    "value": "3"
+                },
+                {
+                    "name": "Unsuccessful Passes Opposition Half",
+                    "value": "2"
+                },
+                {
+                    "name": "Duels",
+                    "value": "1"
+                },
+                {
+                    "name": "Interceptions",
+                    "value": "1"
+                },
+                {
+                    "name": "Substitute On",
+                    "value": "1"
+                },
+                {
+                    "name": "Index",
+                    "value": "10"
+                },
+                {
+                    "name": "Blocked Shots",
+                    "value": "1"
+                },
+                {
+                    "name": "Times Tackled",
+                    "value": "1"
+                },
+                {
+                    "name": "Successful Short Passes",
+                    "value": "3"
+                },
+                {
+                    "name": "Total Unsuccessful Passes ( Excl Crosses & Corners )",
+                    "value": "2"
+                },
+                {
+                    "name": "Ground Duels lost",
+                    "value": "1"
+                },
+                {
+                    "name": "Home Goals",
+                    "value": "0"
+                },
+                {
+                    "name": "Away Goals",
+                    "value": "0"
+                },
+                {
+                    "name": "Winning Goal",
+                    "value": "0"
+                }
+            ]
+        },
+        {
+            "position": "Forward",
+            "id": "4f0i3c5pihp8xvnky7vrbs2xh",
+            "shirtNumber": "7",
+            "firstName": "Joaquín Alberto",
+            "lastName": "Montecinos Naranjo",
+            "shortFirstName": "Joaquín",
+            "shortLastName": "Montecinos",
+            "matchName": "J. Montecinos",
+            "stat": [
+                {
+                    "name": "Ground Duels",
+                    "value": "7"
+                },
+                {
+                    "name": "Aerial Duels lost",
+                    "value": "2"
+                },
+                {
+                    "name": "Games Played",
+                    "value": "1"
+                },
+                {
+                    "name": "Touches",
+                    "value": "36"
+                },
+                {
+                    "name": "Time Played",
+                    "value": "83"
+                },
+                {
+                    "name": "Total Successful Passes ( Excl Crosses & Corners ) ",
+                    "value": "13"
+                },
+                {
+                    "name": "Unsuccessful Launches",
+                    "value": "1"
+                },
+                {
+                    "name": "Total Losses Of Possession",
+                    "value": "13"
+                },
+                {
+                    "name": "Total Shots",
+                    "value": "3"
+                },
+                {
+                    "name": "Forward Passes",
+                    "value": "7"
+                },
+                {
+                    "name": "Successful Passes Opposition Half",
+                    "value": "12"
+                },
+                {
+                    "name": "Unsuccessful Dribbles",
+                    "value": "2"
+                },
+                {
+                    "name": "Duels won",
+                    "value": "4"
+                },
+                {
+                    "name": "Successful Lay-offs",
+                    "value": "1"
+                },
+                {
+                    "name": "Substitute Off",
+                    "value": "1"
+                },
+                {
+                    "name": "Unsuccessful Short Passes",
+                    "value": "2"
+                },
+                {
+                    "name": "Unsuccessful Crosses open play",
+                    "value": "2"
+                },
+                {
+                    "name": "Leftside Passes",
+                    "value": "4"
+                },
+                {
+                    "name": "Unsuccessful Crosses & Corners",
+                    "value": "2"
+                },
+                {
+                    "name": "Appearances",
+                    "value": "1"
+                },
+                {
+                    "name": "Aerial Duels",
+                    "value": "2"
+                },
+                {
+                    "name": "Successful Passes Own Half",
+                    "value": "1"
+                },
+                {
+                    "name": "PutThrough/Blocked Distribution",
+                    "value": "3"
+                },
+                {
+                    "name": "Ground Duels won",
+                    "value": "4"
+                },
+                {
+                    "name": "Rightside Passes",
+                    "value": "3"
+                },
+                {
+                    "name": "Open Play Passes",
+                    "value": "17"
+                },
+                {
+                    "name": "Goals Conceded",
+                    "value": "1"
+                },
+                {
+                    "name": "PutThrough/Blocked Distribution Won",
+                    "value": "2"
+                },
+                {
+                    "name": "Shots Off Target (inc woodwork)",
+                    "value": "3"
+                },
+                {
+                    "name": "Duels lost",
+                    "value": "5"
+                },
+                {
+                    "name": "Recoveries",
+                    "value": "4"
+                },
+                {
+                    "name": "Unsuccessful Passes Own Half",
+                    "value": "2"
+                },
+                {
+                    "name": "Backward Passes",
+                    "value": "3"
+                },
+                {
+                    "name": "Goals Conceded Inside Box",
+                    "value": "1"
+                },
+                {
+                    "name": "Total Passes",
+                    "value": "17"
+                },
+                {
+                    "name": "Starts",
+                    "value": "1"
+                },
+                {
+                    "name": "Total Touches In Opposition Box",
+                    "value": "6"
+                },
+                {
+                    "name": "Successful Open Play Passes",
+                    "value": "13"
+                },
+                {
+                    "name": "Total Tackles",
+                    "value": "1"
+                },
+                {
+                    "name": "Unsuccessful Passes Opposition Half",
+                    "value": "4"
+                },
+                {
+                    "name": "Duels",
+                    "value": "9"
+                },
+                {
+                    "name": "Interceptions",
+                    "value": "1"
+                },
+                {
+                    "name": "Index",
+                    "value": "10"
+                },
+                {
+                    "name": "Total Fouls Won",
+                    "value": "3"
+                },
+                {
+                    "name": "Unsuccessful Long Passes",
+                    "value": "2"
+                },
+                {
+                    "name": "Tackles Won",
+                    "value": "1"
+                },
+                {
+                    "name": "Times Tackled",
+                    "value": "3"
+                },
+                {
+                    "name": "Successful Short Passes",
+                    "value": "12"
+                },
+                {
+                    "name": "Successful Long Passes",
+                    "value": "1"
+                },
+                {
+                    "name": "Total Unsuccessful Passes ( Excl Crosses & Corners )",
+                    "value": "4"
+                },
+                {
+                    "name": "Ground Duels lost",
+                    "value": "3"
+                },
+                {
+                    "name": "Home Goals",
+                    "value": "0"
+                },
+                {
+                    "name": "Away Goals",
+                    "value": "0"
+                },
+                {
+                    "name": "Winning Goal",
+                    "value": "0"
+                }
+            ]
+        },
+        {
+            "position": "Midfielder",
+            "id": "9stzu6e305ufeguh1ix1l0e7d",
+            "shirtNumber": "13",
+            "firstName": "Víctor Felipe",
+            "lastName": "Méndez Obando",
+            "shortFirstName": "Felipe",
+            "shortLastName": "Méndez",
+            "matchName": "V. Méndez",
+            "stat": [
+                {
+                    "name": "Ground Duels",
+                    "value": "5"
+                },
+                {
+                    "name": "Aerial Duels lost",
+                    "value": "1"
+                },
+                {
+                    "name": "Successful Dribbles",
+                    "value": "1"
+                },
+                {
+                    "name": "Games Played",
+                    "value": "1"
+                },
+                {
+                    "name": "Touches",
+                    "value": "57"
+                },
+                {
+                    "name": "Time Played",
+                    "value": "90"
+                },
+                {
+                    "name": "Total Successful Passes ( Excl Crosses & Corners ) ",
+                    "value": "46"
+                },
+                {
+                    "name": "Total Losses Of Possession",
+                    "value": "7"
+                },
+                {
+                    "name": "Forward Passes",
+                    "value": "14"
+                },
+                {
+                    "name": "Successful Passes Opposition Half",
+                    "value": "22"
+                },
+                {
+                    "name": "Duels won",
+                    "value": "3"
+                },
+                {
+                    "name": "Successful Lay-offs",
+                    "value": "1"
+                },
+                {
+                    "name": "Unsuccessful Short Passes",
+                    "value": "5"
+                },
+                {
+                    "name": "Total Fouls Conceded",
+                    "value": "1"
+                },
+                {
+                    "name": "Leftside Passes",
+                    "value": "6"
+                },
+                {
+                    "name": "Appearances",
+                    "value": "1"
+                },
+                {
+                    "name": "Aerial Duels",
+                    "value": "1"
+                },
+                {
+                    "name": "Successful Passes Own Half",
+                    "value": "24"
+                },
+                {
+                    "name": "Ground Duels won",
+                    "value": "3"
+                },
+                {
+                    "name": "Rightside Passes",
+                    "value": "19"
+                },
+                {
+                    "name": "Open Play Passes",
+                    "value": "50"
+                },
+                {
+                    "name": "Goals Conceded",
+                    "value": "2"
+                },
+                {
+                    "name": "Duels lost",
+                    "value": "3"
+                },
+                {
+                    "name": "Recoveries",
+                    "value": "6"
+                },
+                {
+                    "name": "Backward Passes",
+                    "value": "12"
+                },
+                {
+                    "name": "Goals Conceded Inside Box",
+                    "value": "2"
+                },
+                {
+                    "name": "Total Passes",
+                    "value": "51"
+                },
+                {
+                    "name": "Key Passes (Attempt Assists)",
+                    "value": "2"
+                },
+                {
+                    "name": "Starts",
+                    "value": "1"
+                },
+                {
+                    "name": "Total Touches In Opposition Box",
+                    "value": "1"
+                },
+                {
+                    "name": "Successful Open Play Passes",
+                    "value": "45"
+                },
+                {
+                    "name": "Total Tackles",
+                    "value": "1"
+                },
+                {
+                    "name": "Unsuccessful Passes Opposition Half",
+                    "value": "5"
+                },
+                {
+                    "name": "Duels",
+                    "value": "6"
+                },
+                {
+                    "name": "Interceptions",
+                    "value": "1"
+                },
+                {
+                    "name": "Index",
+                    "value": "10"
+                },
+                {
+                    "name": "Total Fouls Won",
+                    "value": "1"
+                },
+                {
+                    "name": "Tackles Won",
+                    "value": "1"
+                },
+                {
+                    "name": "Times Tackled",
+                    "value": "1"
+                },
+                {
+                    "name": "Successful Short Passes",
+                    "value": "45"
+                },
+                {
+                    "name": "Successful Long Passes",
+                    "value": "1"
+                },
+                {
+                    "name": "Total Unsuccessful Passes ( Excl Crosses & Corners )",
+                    "value": "5"
+                },
+                {
+                    "name": "Ground Duels lost",
+                    "value": "2"
+                },
+                {
+                    "name": "Home Goals",
+                    "value": "0"
+                },
+                {
+                    "name": "Away Goals",
+                    "value": "0"
+                },
+                {
+                    "name": "Winning Goal",
+                    "value": "0"
+                }
+            ]
+        },
+        {
+            "position": "Defender",
+            "id": "1qjttb6sdzmo310b3g8yxqhn9",
+            "shirtNumber": "18",
+            "firstName": "Óscar Mauricio",
+            "lastName": "Opazo Lara",
+            "shortFirstName": "Óscar",
+            "shortLastName": "Opazo",
+            "matchName": "Ó. Opazo",
+            "stat": [
+                {
+                    "name": "Ground Duels",
+                    "value": "8"
+                },
+                {
+                    "name": "Aerial Duels lost",
+                    "value": "1"
+                },
+                {
+                    "name": "Successful Dribbles",
+                    "value": "1"
+                },
+                {
+                    "name": "Games Played",
+                    "value": "1"
+                },
+                {
+                    "name": "Touches",
+                    "value": "52"
+                },
+                {
+                    "name": "Yellow Cards",
+                    "value": "1"
+                },
+                {
+                    "name": "Time Played",
+                    "value": "73"
+                },
+                {
+                    "name": "Total Successful Passes ( Excl Crosses & Corners ) ",
+                    "value": "27"
+                },
+                {
+                    "name": "Throw Ins to Opposition Player",
+                    "value": "3"
+                },
+                {
+                    "name": "Total Losses Of Possession",
+                    "value": "13"
+                },
+                {
+                    "name": "Forward Passes",
+                    "value": "7"
+                },
+                {
+                    "name": "Throw Ins to Own Player",
+                    "value": "4"
+                },
+                {
+                    "name": "Successful Passes Opposition Half",
+                    "value": "11"
+                },
+                {
+                    "name": "Foul Attempted Tackle",
+                    "value": "1"
+                },
+                {
+                    "name": "Unsuccessful Dribbles",
+                    "value": "2"
+                },
+                {
+                    "name": "Duels won",
+                    "value": "3"
+                },
+                {
+                    "name": "Substitute Off",
+                    "value": "1"
+                },
+                {
+                    "name": "Unsuccessful Short Passes",
+                    "value": "3"
+                },
+                {
+                    "name": "Total Fouls Conceded",
+                    "value": "1"
+                },
+                {
+                    "name": "Unsuccessful Crosses open play",
+                    "value": "2"
+                },
+                {
+                    "name": "Leftside Passes",
+                    "value": "17"
+                },
+                {
+                    "name": "Unsuccessful Crosses & Corners",
+                    "value": "2"
+                },
+                {
+                    "name": "Appearances",
+                    "value": "1"
+                },
+                {
+                    "name": "Aerial Duels",
+                    "value": "1"
+                },
+                {
+                    "name": "Successful Passes Own Half",
+                    "value": "16"
+                },
+                {
+                    "name": "PutThrough/Blocked Distribution",
+                    "value": "1"
+                },
+                {
+                    "name": "Ground Duels won",
+                    "value": "3"
+                },
+                {
+                    "name": "Open Play Passes",
+                    "value": "31"
+                },
+                {
+                    "name": "Duels lost",
+                    "value": "6"
+                },
+                {
+                    "name": "Recoveries",
+                    "value": "4"
+                },
+                {
+                    "name": "Unsuccessful Passes Own Half",
+                    "value": "2"
+                },
+                {
+                    "name": "Backward Passes",
+                    "value": "7"
+                },
+                {
+                    "name": "Total Passes",
+                    "value": "31"
+                },
+                {
+                    "name": "Key Passes (Attempt Assists)",
+                    "value": "2"
+                },
+                {
+                    "name": "Tackles Lost",
+                    "value": "1"
+                },
+                {
+                    "name": "Starts",
+                    "value": "1"
+                },
+                {
+                    "name": "Total Touches In Opposition Box",
+                    "value": "1"
+                },
+                {
+                    "name": "Successful Open Play Passes",
+                    "value": "27"
+                },
+                {
+                    "name": "Total Tackles",
+                    "value": "1"
+                },
+                {
+                    "name": "Unsuccessful Passes Opposition Half",
+                    "value": "4"
+                },
+                {
+                    "name": "Duels",
+                    "value": "9"
+                },
+                {
+                    "name": "Interceptions",
+                    "value": "2"
+                },
+                {
+                    "name": "Index",
+                    "value": "10"
+                },
+                {
+                    "name": "Total Fouls Won",
+                    "value": "1"
+                },
+                {
+                    "name": "Unsuccessful Long Passes",
+                    "value": "1"
+                },
+                {
+                    "name": "Times Tackled",
+                    "value": "3"
+                },
+                {
+                    "name": "Successful Short Passes",
+                    "value": "26"
+                },
+                {
+                    "name": "Successful Long Passes",
+                    "value": "1"
+                },
+                {
+                    "name": "Total Unsuccessful Passes ( Excl Crosses & Corners )",
+                    "value": "4"
+                },
+                {
+                    "name": "Ground Duels lost",
+                    "value": "5"
+                },
+                {
+                    "name": "Home Goals",
+                    "value": "0"
+                },
+                {
+                    "name": "Away Goals",
+                    "value": "0"
+                },
+                {
+                    "name": "Winning Goal",
+                    "value": "0"
+                }
+            ]
+        },
+        {
+            "position": "Midfielder",
+            "id": "djlyi0ad4x1p0k4thn8n0axw4",
+            "shirtNumber": "19",
+            "firstName": "Darío Esteban",
+            "lastName": "Osorio Osorio",
+            "shortFirstName": "Darío",
+            "shortLastName": "Osorio",
+            "matchName": "D. Osorio",
+            "stat": [
+                {
+                    "name": "Ground Duels",
+                    "value": "3"
+                },
+                {
+                    "name": "Corners Won",
+                    "value": "2"
+                },
+                {
+                    "name": "Successful Dribbles",
+                    "value": "2"
+                },
+                {
+                    "name": "Games Played",
+                    "value": "2"
+                },
+                {
+                    "name": "Touches",
+                    "value": "22"
+                },
+                {
+                    "name": "Time Played",
+                    "value": "16"
+                },
+                {
+                    "name": "Total Successful Passes ( Excl Crosses & Corners ) ",
+                    "value": "13"
+                },
+                {
+                    "name": "Total Losses Of Possession",
+                    "value": "6"
+                },
+                {
+                    "name": "Forward Passes",
+                    "value": "1"
+                },
+                {
+                    "name": "Successful Passes Opposition Half",
+                    "value": "12"
+                },
+                {
+                    "name": "Unsuccessful Dribbles",
+                    "value": "1"
+                },
+                {
+                    "name": "Duels won",
+                    "value": "2"
+                },
+                {
+                    "name": "Total Clearances",
+                    "value": "1"
+                },
+                {
+                    "name": "Unsuccessful Short Passes",
+                    "value": "1"
+                },
+                {
+                    "name": "Unsuccessful Crosses open play",
+                    "value": "1"
+                },
+                {
+                    "name": "Leftside Passes",
+                    "value": "6"
+                },
+                {
+                    "name": "Unsuccessful Crosses & Corners",
+                    "value": "1"
+                },
+                {
+                    "name": "Appearances",
+                    "value": "2"
+                },
+                {
+                    "name": "Successful Passes Own Half",
+                    "value": "1"
+                },
+                {
+                    "name": "PutThrough/Blocked Distribution",
+                    "value": "2"
+                },
+                {
+                    "name": "Ground Duels won",
+                    "value": "2"
+                },
+                {
+                    "name": "Rightside Passes",
+                    "value": "5"
+                },
+                {
+                    "name": "Open Play Passes",
+                    "value": "13"
+                },
+                {
+                    "name": "Goals Conceded",
+                    "value": "1"
+                },
+                {
+                    "name": "Duels lost",
+                    "value": "1"
+                },
+                {
+                    "name": "Recoveries",
+                    "value": "2"
+                },
+                {
+                    "name": "Backward Passes",
+                    "value": "3"
+                },
+                {
+                    "name": "Goals Conceded Inside Box",
+                    "value": "1"
+                },
+                {
+                    "name": "Successful Corners into Box",
+                    "value": "1"
+                },
+                {
+                    "name": "Total Passes",
+                    "value": "15"
+                },
+                {
+                    "name": "Key Passes (Attempt Assists)",
+                    "value": "2"
+                },
+                {
+                    "name": "Corners Taken (incl short corners)",
+                    "value": "2"
+                },
+                {
+                    "name": "Total Touches In Opposition Box",
+                    "value": "1"
+                },
+                {
+                    "name": "Successful Open Play Passes",
+                    "value": "11"
+                },
+                {
+                    "name": "Unsuccessful Passes Opposition Half",
+                    "value": "3"
+                },
+                {
+                    "name": "Duels",
+                    "value": "3"
+                },
+                {
+                    "name": "Substitute On",
+                    "value": "2"
+                },
+                {
+                    "name": "Index",
+                    "value": "10"
+                },
+                {
+                    "name": "Unsuccessful Long Passes",
+                    "value": "1"
+                },
+                {
+                    "name": "Times Tackled",
+                    "value": "1"
+                },
+                {
+                    "name": "Successful Short Passes",
+                    "value": "11"
+                },
+                {
+                    "name": "Successful Long Passes",
+                    "value": "2"
+                },
+                {
+                    "name": "Total Unsuccessful Passes ( Excl Crosses & Corners )",
+                    "value": "2"
+                },
+                {
+                    "name": "Ground Duels lost",
+                    "value": "1"
+                },
+                {
+                    "name": "Home Goals",
+                    "value": "0"
+                },
+                {
+                    "name": "Away Goals",
+                    "value": "0"
+                },
+                {
+                    "name": "Winning Goal",
+                    "value": "0"
+                }
+            ]
+        },
+        {
+            "position": "Goalkeeper",
+            "id": "c3p7hlz4zb6pqm3wgtk5jleqd",
+            "shirtNumber": "1",
+            "firstName": "Sebastián Andrés",
+            "lastName": "Pérez Kirby",
+            "shortFirstName": "Sebastián",
+            "shortLastName": "Pérez",
+            "matchName": "S. Pérez",
+            "stat": [
+                {
+                    "name": "Games Played",
+                    "value": "1"
+                },
+                {
+                    "name": "Touches",
+                    "value": "26"
+                },
+                {
+                    "name": "Time Played",
+                    "value": "90"
+                },
+                {
+                    "name": "Total Successful Passes ( Excl Crosses & Corners ) ",
+                    "value": "15"
+                },
+                {
+                    "name": "Total Losses Of Possession",
+                    "value": "1"
+                },
+                {
+                    "name": "Saves made - parried",
+                    "value": "3"
+                },
+                {
+                    "name": "Forward Passes",
+                    "value": "5"
+                },
+                {
+                    "name": "Successful Passes Opposition Half",
+                    "value": "1"
+                },
+                {
+                    "name": "Leftside Passes",
+                    "value": "8"
+                },
+                {
+                    "name": "Appearances",
+                    "value": "1"
+                },
+                {
+                    "name": "Successful Passes Own Half",
+                    "value": "14"
+                },
+                {
+                    "name": "Drops",
+                    "value": "1"
+                },
+                {
+                    "name": "GK Unsuccessful Distribution",
+                    "value": "1"
+                },
+                {
+                    "name": "Rightside Passes",
+                    "value": "3"
+                },
+                {
+                    "name": "Open Play Passes",
+                    "value": "11"
+                },
+                {
+                    "name": "Saves Made from Outside Box",
+                    "value": "4"
+                },
+                {
+                    "name": "Recoveries",
+                    "value": "6"
+                },
+                {
+                    "name": "Total Passes",
+                    "value": "16"
+                },
+                {
+                    "name": "Starts",
+                    "value": "1"
+                },
+                {
+                    "name": "Saves Made",
+                    "value": "4"
+                },
+                {
+                    "name": "Successful Open Play Passes",
+                    "value": "11"
+                },
+                {
+                    "name": "Successful Launches",
+                    "value": "1"
+                },
+                {
+                    "name": "Unsuccessful Passes Opposition Half",
+                    "value": "1"
+                },
+                {
+                    "name": "Index",
+                    "value": "10"
+                },
+                {
+                    "name": "GK Successful Distribution",
+                    "value": "9"
+                },
+                {
+                    "name": "Unsuccessful Long Passes",
+                    "value": "1"
+                },
+                {
+                    "name": "Clean Sheets",
+                    "value": "1"
+                },
+                {
+                    "name": "Successful Short Passes",
+                    "value": "13"
+                },
+                {
+                    "name": "Successful Long Passes",
+                    "value": "2"
+                },
+                {
+                    "name": "Total Unsuccessful Passes ( Excl Crosses & Corners )",
+                    "value": "1"
+                },
+                {
+                    "name": "Home Goals",
+                    "value": "0"
+                },
+                {
+                    "name": "Away Goals",
+                    "value": "0"
+                },
+                {
+                    "name": "Winning Goal",
+                    "value": "0"
+                }
+            ]
+        },
+        {
+            "position": "Defender",
+            "id": "1wtcag5leh2alsw29zj1vdd6",
+            "shirtNumber": "26",
+            "firstName": "Jeyson Alejandro",
+            "lastName": "Rojas Orellana",
+            "shortFirstName": "Jeyson",
+            "shortLastName": "Rojas",
+            "matchName": "J. Rojas",
+            "stat": [
+                {
+                    "name": "Ground Duels",
+                    "value": "3"
+                },
+                {
+                    "name": "Games Played",
+                    "value": "1"
+                },
+                {
+                    "name": "Touches",
+                    "value": "59"
+                },
+                {
+                    "name": "Yellow Cards",
+                    "value": "1"
+                },
+                {
+                    "name": "Time Played",
+                    "value": "83"
+                },
+                {
+                    "name": "Total Successful Passes ( Excl Crosses & Corners ) ",
+                    "value": "25"
+                },
+                {
+                    "name": "Throw Ins to Opposition Player",
+                    "value": "1"
+                },
+                {
+                    "name": "Total Losses Of Possession",
+                    "value": "16"
+                },
+                {
+                    "name": "Forward Passes",
+                    "value": "16"
+                },
+                {
+                    "name": "Throw Ins to Own Player",
+                    "value": "7"
+                },
+                {
+                    "name": "Successful Passes Opposition Half",
+                    "value": "13"
+                },
+                {
+                    "name": "Duels won",
+                    "value": "2"
+                },
+                {
+                    "name": "Substitute Off",
+                    "value": "1"
+                },
+                {
+                    "name": "Total Clearances",
+                    "value": "1"
+                },
+                {
+                    "name": "Unsuccessful Short Passes",
+                    "value": "10"
+                },
+                {
+                    "name": "Total Fouls Conceded",
+                    "value": "1"
+                },
+                {
+                    "name": "Unsuccessful Crosses open play",
+                    "value": "2"
+                },
+                {
+                    "name": "Leftside Passes",
+                    "value": "11"
+                },
+                {
+                    "name": "Unsuccessful Crosses & Corners",
+                    "value": "2"
+                },
+                {
+                    "name": "Appearances",
+                    "value": "1"
+                },
+                {
+                    "name": "Aerial Duels",
+                    "value": "1"
+                },
+                {
+                    "name": "Aerial Duels won",
+                    "value": "1"
+                },
+                {
+                    "name": "Successful Passes Own Half",
+                    "value": "12"
+                },
+                {
+                    "name": "PutThrough/Blocked Distribution",
+                    "value": "2"
+                },
+                {
+                    "name": "Ground Duels won",
+                    "value": "1"
+                },
+                {
+                    "name": "Rightside Passes",
+                    "value": "1"
+                },
+                {
+                    "name": "Open Play Passes",
+                    "value": "36"
+                },
+                {
+                    "name": "Goals Conceded",
+                    "value": "1"
+                },
+                {
+                    "name": "PutThrough/Blocked Distribution Won",
+                    "value": "1"
+                },
+                {
+                    "name": "Duels lost",
+                    "value": "2"
+                },
+                {
+                    "name": "Recoveries",
+                    "value": "5"
+                },
+                {
+                    "name": "Unsuccessful Passes Own Half",
+                    "value": "1"
+                },
+                {
+                    "name": "Backward Passes",
+                    "value": "8"
+                },
+                {
+                    "name": "Goals Conceded Inside Box",
+                    "value": "1"
+                },
+                {
+                    "name": "Total Passes",
+                    "value": "36"
+                },
+                {
+                    "name": "Tackles Lost",
+                    "value": "1"
+                },
+                {
+                    "name": "Starts",
+                    "value": "1"
+                },
+                {
+                    "name": "Total Touches In Opposition Box",
+                    "value": "1"
+                },
+                {
+                    "name": "Successful Open Play Passes",
+                    "value": "25"
+                },
+                {
+                    "name": "Total Tackles",
+                    "value": "1"
+                },
+                {
+                    "name": "Successful Launches",
+                    "value": "1"
+                },
+                {
+                    "name": "Unsuccessful Passes Opposition Half",
+                    "value": "12"
+                },
+                {
+                    "name": "Duels",
+                    "value": "4"
+                },
+                {
+                    "name": "Interceptions",
+                    "value": "4"
+                },
+                {
+                    "name": "Index",
+                    "value": "10"
+                },
+                {
+                    "name": "Unsuccessful Long Passes",
+                    "value": "1"
+                },
+                {
+                    "name": "Times Tackled",
+                    "value": "1"
+                },
+                {
+                    "name": "Successful Short Passes",
+                    "value": "22"
+                },
+                {
+                    "name": "Successful Long Passes",
+                    "value": "3"
+                },
+                {
+                    "name": "Total Unsuccessful Passes ( Excl Crosses & Corners )",
+                    "value": "11"
+                },
+                {
+                    "name": "Ground Duels lost",
+                    "value": "2"
+                },
+                {
+                    "name": "Home Goals",
+                    "value": "0"
+                },
+                {
+                    "name": "Away Goals",
+                    "value": "0"
+                },
+                {
+                    "name": "Winning Goal",
+                    "value": "0"
+                }
+            ]
+        },
+        {
+            "position": "Defender",
+            "id": "a1oi2uvchhnwi4kqw9npdp0q1",
+            "shirtNumber": "15",
+            "firstName": "Francisco Andrés",
+            "lastName": "Sierralta Carvallo",
+            "shortFirstName": "Francisco",
+            "shortLastName": "Sierralta",
+            "matchName": "F. Sierralta",
+            "stat": [
+                {
+                    "name": "Ground Duels",
+                    "value": "11"
+                },
+                {
+                    "name": "Aerial Duels lost",
+                    "value": "3"
+                },
+                {
+                    "name": "Games Played",
+                    "value": "2"
+                },
+                {
+                    "name": "Touches",
+                    "value": "133"
+                },
+                {
+                    "name": "Yellow Cards",
+                    "value": "1"
+                },
+                {
+                    "name": "Time Played",
+                    "value": "171"
+                },
+                {
+                    "name": "Total Successful Passes ( Excl Crosses & Corners ) ",
+                    "value": "105"
+                },
+                {
+                    "name": "Total Losses Of Possession",
+                    "value": "7"
+                },
+                {
+                    "name": "Forward Passes",
+                    "value": "35"
+                },
+                {
+                    "name": "Successful Passes Opposition Half",
+                    "value": "24"
+                },
+                {
+                    "name": "Foul Attempted Tackle",
+                    "value": "3"
+                },
+                {
+                    "name": "Duels won",
+                    "value": "8"
+                },
+                {
+                    "name": "Substitute Off",
+                    "value": "1"
+                },
+                {
+                    "name": "Total Clearances",
+                    "value": "6"
+                },
+                {
+                    "name": "Unsuccessful Short Passes",
+                    "value": "4"
+                },
+                {
+                    "name": "Total Fouls Conceded",
+                    "value": "4"
+                },
+                {
+                    "name": "Leftside Passes",
+                    "value": "53"
+                },
+                {
+                    "name": "Appearances",
+                    "value": "2"
+                },
+                {
+                    "name": "Handballs conceded",
+                    "value": "1"
+                },
+                {
+                    "name": "Aerial Duels",
+                    "value": "5"
+                },
+                {
+                    "name": "Aerial Duels won",
+                    "value": "2"
+                },
+                {
+                    "name": "Successful Passes Own Half",
+                    "value": "81"
+                },
+                {
+                    "name": "PutThrough/Blocked Distribution",
+                    "value": "2"
+                },
+                {
+                    "name": "Ground Duels won",
+                    "value": "6"
+                },
+                {
+                    "name": "Rightside Passes",
+                    "value": "20"
+                },
+                {
+                    "name": "Open Play Passes",
+                    "value": "109"
+                },
+                {
+                    "name": "Goals Conceded",
+                    "value": "2"
+                },
+                {
+                    "name": "Blocks",
+                    "value": "1"
+                },
+                {
+                    "name": "PutThrough/Blocked Distribution Won",
+                    "value": "2"
+                },
+                {
+                    "name": "Duels lost",
+                    "value": "8"
+                },
+                {
+                    "name": "Recoveries",
+                    "value": "5"
+                },
+                {
+                    "name": "Unsuccessful Passes Own Half",
+                    "value": "2"
+                },
+                {
+                    "name": "Backward Passes",
+                    "value": "2"
+                },
+                {
+                    "name": "Goals Conceded Inside Box",
+                    "value": "2"
+                },
+                {
+                    "name": "Total Passes",
+                    "value": "110"
+                },
+                {
+                    "name": "Tackles Lost",
+                    "value": "1"
+                },
+                {
+                    "name": "Starts",
+                    "value": "2"
+                },
+                {
+                    "name": "Successful Open Play Passes",
+                    "value": "104"
+                },
+                {
+                    "name": "Total Tackles",
+                    "value": "5"
+                },
+                {
+                    "name": "Unsuccessful Passes Opposition Half",
+                    "value": "3"
+                },
+                {
+                    "name": "Duels",
+                    "value": "16"
+                },
+                {
+                    "name": "Interceptions",
+                    "value": "4"
+                },
+                {
+                    "name": "Index",
+                    "value": "10"
+                },
+                {
+                    "name": "Total Fouls Won",
+                    "value": "1"
+                },
+                {
+                    "name": "Unsuccessful Long Passes",
+                    "value": "1"
+                },
+                {
+                    "name": "Tackles Won",
+                    "value": "4"
+                },
+                {
+                    "name": "Successful Short Passes",
+                    "value": "100"
+                },
+                {
+                    "name": "Successful Long Passes",
+                    "value": "5"
+                },
+                {
+                    "name": "Total Unsuccessful Passes ( Excl Crosses & Corners )",
+                    "value": "5"
+                },
+                {
+                    "name": "Ground Duels lost",
+                    "value": "5"
+                },
+                {
+                    "name": "Home Goals",
+                    "value": "0"
+                },
+                {
+                    "name": "Away Goals",
+                    "value": "0"
+                },
+                {
+                    "name": "Winning Goal",
+                    "value": "0"
+                }
+            ]
+        },
+        {
+            "position": "Forward",
+            "id": "bhu3hiq2ln2cso48ndqe17bvt",
+            "shirtNumber": "16",
+            "firstName": "Diego Martín",
+            "lastName": "Valencia Morello",
+            "shortFirstName": "Diego",
+            "shortLastName": "Valencia",
+            "matchName": "D. Valencia",
+            "stat": [
+                {
+                    "name": "Ground Duels",
+                    "value": "16"
+                },
+                {
+                    "name": "Aerial Duels lost",
+                    "value": "1"
+                },
+                {
+                    "name": "Games Played",
+                    "value": "2"
+                },
+                {
+                    "name": "Touches",
+                    "value": "43"
+                },
+                {
+                    "name": "Time Played",
+                    "value": "110"
+                },
+                {
+                    "name": "Total Successful Passes ( Excl Crosses & Corners ) ",
+                    "value": "21"
+                },
+                {
+                    "name": "Total Losses Of Possession",
+                    "value": "5"
+                },
+                {
+                    "name": "Total Shots",
+                    "value": "3"
+                },
+                {
+                    "name": "Forward Passes",
+                    "value": "7"
+                },
+                {
+                    "name": "Penalties Taken",
+                    "value": "1"
+                },
+                {
+                    "name": "Successful Passes Opposition Half",
+                    "value": "16"
+                },
+                {
+                    "name": "Foul Attempted Tackle",
+                    "value": "1"
+                },
+                {
+                    "name": "Duels won",
+                    "value": "9"
+                },
+                {
+                    "name": "Shots On Target ( inc goals )",
+                    "value": "2"
+                },
+                {
+                    "name": "Successful Lay-offs",
+                    "value": "1"
+                },
+                {
+                    "name": "Unsuccessful Short Passes",
+                    "value": "2"
+                },
+                {
+                    "name": "Total Fouls Conceded",
+                    "value": "3"
+                },
+                {
+                    "name": "Leftside Passes",
+                    "value": "3"
+                },
+                {
+                    "name": "Appearances",
+                    "value": "2"
+                },
+                {
+                    "name": "Aerial Duels",
+                    "value": "1"
+                },
+                {
+                    "name": "Successful Passes Own Half",
+                    "value": "6"
+                },
+                {
+                    "name": "Ground Duels won",
+                    "value": "9"
+                },
+                {
+                    "name": "Rightside Passes",
+                    "value": "8"
+                },
+                {
+                    "name": "Open Play Passes",
+                    "value": "22"
+                },
+                {
+                    "name": "Goals Conceded",
+                    "value": "1"
+                },
+                {
+                    "name": "Shots Off Target (inc woodwork)",
+                    "value": "1"
+                },
+                {
+                    "name": "Duels lost",
+                    "value": "8"
+                },
+                {
+                    "name": "Recoveries",
+                    "value": "2"
+                },
+                {
+                    "name": "Backward Passes",
+                    "value": "6"
+                },
+                {
+                    "name": "Goals Conceded Inside Box",
+                    "value": "1"
+                },
+                {
+                    "name": "Total Passes",
+                    "value": "24"
+                },
+                {
+                    "name": "Successful Crosses & Corners",
+                    "value": "1"
+                },
+                {
+                    "name": "Key Passes (Attempt Assists)",
+                    "value": "1"
+                },
+                {
+                    "name": "Tackles Lost",
+                    "value": "5"
+                },
+                {
+                    "name": "Starts",
+                    "value": "1"
+                },
+                {
+                    "name": "Total Touches In Opposition Box",
+                    "value": "5"
+                },
+                {
+                    "name": "Successful Open Play Passes",
+                    "value": "19"
+                },
+                {
+                    "name": "Total Tackles",
+                    "value": "6"
+                },
+                {
+                    "name": "Unsuccessful Passes Opposition Half",
+                    "value": "3"
+                },
+                {
+                    "name": "Duels",
+                    "value": "17"
+                },
+                {
+                    "name": "Substitute On",
+                    "value": "1"
+                },
+                {
+                    "name": "Index",
+                    "value": "10"
+                },
+                {
+                    "name": "Total Fouls Won",
+                    "value": "3"
+                },
+                {
+                    "name": "Blocked Shots",
+                    "value": "1"
+                },
+                {
+                    "name": "Unsuccessful Long Passes",
+                    "value": "1"
+                },
+                {
+                    "name": "Tackles Won",
+                    "value": "1"
+                },
+                {
+                    "name": "Clean Sheets",
+                    "value": "1"
+                },
+                {
+                    "name": "Times Tackled",
+                    "value": "1"
+                },
+                {
+                    "name": "Successful Short Passes",
+                    "value": "19"
+                },
+                {
+                    "name": "Successful Long Passes",
+                    "value": "2"
+                },
+                {
+                    "name": "Total Unsuccessful Passes ( Excl Crosses & Corners )",
+                    "value": "3"
+                },
+                {
+                    "name": "Successful Crosses open play",
+                    "value": "1"
+                },
+                {
+                    "name": "Ground Duels lost",
+                    "value": "7"
+                },
+                {
+                    "name": "Home Goals",
+                    "value": "0"
+                },
+                {
+                    "name": "Away Goals",
+                    "value": "0"
+                },
+                {
+                    "name": "Winning Goal",
+                    "value": "0"
+                }
+            ]
+        }
+    ]
+}

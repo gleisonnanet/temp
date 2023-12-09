@@ -1,0 +1,31 @@
+{
+    "lastUpdated": "2023-10-13T06:27:28Z",
+    "person": [
+        {
+            "id": "9m1tjyz047r04vrnry19b2bbp",
+            "firstName": "Jalel",
+            "lastName": "Kadri",
+            "shortFirstName": "Jalal",
+            "shortLastName": "Kadri",
+            "matchName": "J. Kadri",
+            "type": "coach",
+            "position": "Unknown",
+            "nationalityId": "2um1icx6ftp1auliaxyw0ou6y",
+            "nationality": "Tunisia",
+            "membership": [
+                {
+                    "contestantId": "ctp7ovvf34m7fzshua9ogbr6i",
+                    "contestantName": "Tunisia",
+                    "active": "yes",
+                    "startDate": "2022-01-21Z",
+                    "transfer": {
+                        "type": "Unknown",
+                        "announcedDate": "2022-01-23Z",
+                        "fromContestantId": "7w4300dn2tnd0eqmbtk531tkx",
+                        "fromContestantName": "Al Khaleej"
+                    }
+                }
+            ]
+        }
+    ]
+}

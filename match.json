@@ -1,0 +1,77 @@
+{
+    "matchInfo": {
+        "id": "etft3excxnzf6n90ep42hegwk",
+        "coverageLevel": "13",
+        "date": "2025-09-14Z",
+        "time": "",
+        "week": "18",
+        "numberOfPeriods": 2,
+        "periodLength": 45,
+        "lastUpdated": "2023-11-18T18:15:51Z",
+        "description": "Chile vs Uruguay",
+        "sport": {
+            "id": "289u5typ3vp4ifwh5thalohmq",
+            "name": "Soccer"
+        },
+        "ruleset": {
+            "id": "79plas4983031idr6vw83nuel",
+            "name": "Men"
+        },
+        "competition": {
+            "id": "2db0aw1duj2my9l5iey5gm6nq",
+            "name": "CONMEBOL World Cup Qualifiers",
+            "knownName": "CONMEBOL World Cup Qualifiers",
+            "competitionCode": "WQS",
+            "competitionFormat": "International cup",
+            "country": {
+                "id": "7ygvdgl31hirp07yeye1tvsut",
+                "name": "South America"
+            }
+        },
+        "tournamentCalendar": {
+            "id": "8r3378w0vwgdwl8hypx4tt0r8",
+            "startDate": "2023-09-08Z",
+            "endDate": "2025-09-14Z",
+            "name": "2026 Canada/Mexico/USA"
+        },
+        "stage": {
+            "id": "8rcq96g5kb8x08f903ia28r9w",
+            "formatId": "e2q01r9o9jwiq1fls93d1sslx",
+            "startDate": "2023-09-08Z",
+            "endDate": "2025-09-14Z",
+            "name": "Regular Season"
+        },
+        "contestant": [
+            {
+                "id": "4etj58jfe5zmfspk9pl7jfzr3",
+                "name": "Chile",
+                "shortName": "Chile",
+                "officialName": "Chile",
+                "code": "CHI",
+                "position": "home",
+                "country": {
+                    "id": "32tb8d7824xg4i0ybxzssczu0",
+                    "name": "Chile"
+                }
+            },
+            {
+                "id": "9l06impjllgop0gte8fldb4zo",
+                "name": "Uruguay",
+                "shortName": "Uruguay",
+                "officialName": "Uruguay",
+                "code": "URU",
+                "position": "away",
+                "country": {
+                    "id": "286fwlvd6dzntv6ewv3cyvb0p",
+                    "name": "Uruguay"
+                }
+            }
+        ]
+    },
+    "liveData": {
+        "matchDetails": {
+            "periodId": 16,
+            "matchStatus": "Fixture"
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "venue": [
+        {
+            "id": "97mmcom3ardmyf9k4ehcjb5tw",
+            "name": "NOEVIR Stadium Kobe",
+            "city": "Kobe",
+            "countryId": "lxyibh89lpdc0bfian1nx0xq",
+            "country": "Japan",
+            "countryCode": "JPN",
+            "address": "1-2-2 Misaki-cho, Hyogo-ku",
+            "opened": 2001,
+            "capacity": 30132,
+            "surface": "grass",
+            "mapsGeoCodeLatitude": "34.656690849",
+            "mapsGeoCodeLongitude": "135.168989897",
+            "timeZone": "Asia/Tokyo",
+            "contestant": [
+                {
+                    "id": "4etj58jfe5zmfspk9pl7jfzr3",
+                    "clubName": "Chile",
+                    "type": "national",
+                    "teamType": "men",
+                    "primary": "no"
+                },
+                {
+                    "id": "6duaxcbrofil112qfq4v895go",
+                    "clubName": "Japan",
+                    "type": "national",
+                    "teamType": "men",
+                    "primary": "no"
+                }
+            ]
+        },
+        {
+            "id": "3lkyk2xu1ebkl9o44lrssjyeh",
+            "name": "Panasonic Stadium Suita",
+            "city": "Suita",
+            "countryId": "lxyibh89lpdc0bfian1nx0xq",
+            "country": "Japan",
+            "countryCode": "JPN",
+            "address": "Senribanpakukōen, 3",
+            "opened": 2015,
+            "capacity": 40322,
+            "surface": "grass",
+            "mapsGeoCodeLatitude": "34.802762516",
+            "mapsGeoCodeLongitude": "135.538198716",
+            "timeZone": "Asia/Tokyo",
+            "contestant": [
+                {
+                    "id": "4etj58jfe5zmfspk9pl7jfzr3",
+                    "clubName": "Chile",
+                    "type": "national",
+                    "teamType": "men",
+                    "primary": "no"
+                },
+                {
+                    "id": "6duaxcbrofil112qfq4v895go",
+                    "clubName": "Japan",
+                    "type": "national",
+                    "teamType": "men",
+                    "primary": "no"
+                }
+            ]
+        }
+    ]
+}

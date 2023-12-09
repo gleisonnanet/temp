@@ -1,0 +1,68 @@
+{
+    "contestant": [
+        {
+            "id": "4etj58jfe5zmfspk9pl7jfzr3",
+            "name": "Chile",
+            "shortName": "Chile",
+            "officialName": "Chile",
+            "code": "CHI",
+            "type": "national",
+            "teamType": "default",
+            "countryId": "32tb8d7824xg4i0ybxzssczu0",
+            "country": "Chile",
+            "status": "active",
+            "city": "Santiago de Chile",
+            "founded": "1895",
+            "lastUpdated": "2023-11-29T15:42:03Z"
+        },
+        {
+            "id": "6duaxcbrofil112qfq4v895go",
+            "name": "Japan",
+            "shortName": "Japan",
+            "officialName": "Japan",
+            "code": "JPN",
+            "type": "national",
+            "teamType": "default",
+            "countryId": "lxyibh89lpdc0bfian1nx0xq",
+            "country": "Japan",
+            "status": "active",
+            "city": "Tōkyō (Tokyo)",
+            "addressZip": "113-8311",
+            "founded": "1921",
+            "lastUpdated": "2023-10-09T22:25:41Z"
+        },
+        {
+            "id": "9bix8nlt6cgbson25qntg2zzh",
+            "name": "Ghana",
+            "shortName": "Ghana",
+            "officialName": "Ghana",
+            "code": "GHA",
+            "type": "national",
+            "teamType": "default",
+            "countryId": "2q2sw72utw5gu9t5y4knckwba",
+            "country": "Ghana",
+            "status": "active",
+            "city": "Accra",
+            "addressZip": "19338",
+            "founded": "1957",
+            "lastUpdated": "2023-10-12T17:22:56Z"
+        },
+        {
+            "id": "ctp7ovvf34m7fzshua9ogbr6i",
+            "name": "Tunisia",
+            "shortName": "Tunisia",
+            "officialName": "Tunisia",
+            "code": "TUN",
+            "type": "national",
+            "teamType": "default",
+            "countryId": "2um1icx6ftp1auliaxyw0ou6y",
+            "country": "Tunisia",
+            "status": "active",
+            "city": "Tunis",
+            "addressZip": "1003",
+            "founded": "1957",
+            "lastUpdated": "2023-10-09T13:54:02Z"
+        }
+    ],
+    "lastUpdated": "2023-12-08T01:23:15Z"
+}
