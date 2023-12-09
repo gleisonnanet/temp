@@ -1,0 +1,14 @@
+contestant[0].id
+contestant[0].name
+contestant[0].shortName
+contestant[0].officialName
+contestant[0].code
+contestant[0].type
+contestant[0].teamType
+contestant[0].countryId
+contestant[0].country
+contestant[0].status
+contestant[0].city
+contestant[0].founded
+contestant[0].lastUpdated
+lastUpdated

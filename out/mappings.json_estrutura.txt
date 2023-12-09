@@ -1,0 +1,5 @@
+mapping[0].suppliers.suppliers[0].name
+mapping[0].suppliers.suppliers[0].uuid
+mapping[0].suppliers.suppliers[0].entityId
+mapping[0].uuid
+lastUpdated

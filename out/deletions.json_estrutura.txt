@@ -1,0 +1,7 @@
+type
+entity[0].id
+entity[0].ocId
+entity[0].deletionTime
+entity[0].lastUpdated
+
+ 

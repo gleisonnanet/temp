@@ -1,0 +1,8 @@
+lastUpdated
+area[0].id
+area[0].name
+area[0].area[0].id
+area[0].area[0].name
+area[0].area[0].area[0].id
+area[0].area[0].area[0].countryCode
+area[0].area[0].area[0].name

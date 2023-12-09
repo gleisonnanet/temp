@@ -1,0 +1,11 @@
+sport.id
+sport.name
+ruleset.id
+ruleset.name
+competition.id
+competition.name
+tournamentCalendar.id
+tournamentCalendar.startDate
+tournamentCalendar.endDate
+tournamentCalendar.name
+lastUpdated
